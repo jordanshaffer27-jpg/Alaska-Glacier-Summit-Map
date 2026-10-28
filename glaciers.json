@@ -1,0 +1,5146 @@
+[
+ {
+  "name": "Adams Glacier",
+  "lat": 58.7826082,
+  "lon": -135.8399206,
+  "elevation": 550.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Juneau D-6 SW"
+ },
+ {
+  "name": "Addison Glacier",
+  "lat": 59.9360608,
+  "lon": -149.793518,
+  "elevation": 1051.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Blying Sound D-8 NE"
+ },
+ {
+  "name": "Agassiz Glacier",
+  "lat": 60.064974,
+  "lon": -140.9233579,
+  "elevation": 407.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-8 SW"
+ },
+ {
+  "name": "Aho Glacier",
+  "lat": 60.8048085,
+  "lon": -152.6463351,
+  "elevation": 1326.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai D-8 SE"
+ },
+ {
+  "name": "Aialik Glacier",
+  "lat": 59.95846,
+  "lon": -149.769383,
+  "elevation": 407.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Blying Sound D-8 NE"
+ },
+ {
+  "name": "Alexander Glacier",
+  "lat": 59.8901607,
+  "lon": -139.4118508,
+  "elevation": 617.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-4 NW"
+ },
+ {
+  "name": "Allen Glacier",
+  "lat": 60.779542,
+  "lon": -144.90648,
+  "elevation": 647.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-3 SE"
+ },
+ {
+  "name": "Alsek Glacier",
+  "lat": 59.2266874,
+  "lon": -137.9304953,
+  "elevation": 1061.0,
+  "county": "Yakutat",
+  "map": "Skagway A-8 NW"
+ },
+ {
+  "name": "Alverstone Glacier",
+  "lat": 60.308241,
+  "lon": -139.140472,
+  "elevation": 2161.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias B-4 SE"
+ },
+ {
+  "name": "Amherst Glacier",
+  "lat": 61.0064337,
+  "lon": -147.8252719,
+  "elevation": 495.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 SE"
+ },
+ {
+  "name": "Anderson Glacier",
+  "lat": 61.1256732,
+  "lon": -146.7263055,
+  "elevation": 851.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-8 NE"
+ },
+ {
+  "name": "Anderson Glacier",
+  "lat": 61.067779,
+  "lon": -141.144447,
+  "elevation": 1219.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy A-1 SE"
+ },
+ {
+  "name": "Aneegulgit",
+  "lat": 63.5333333,
+  "lon": -170.4333333,
+  "elevation": 254.0,
+  "county": "Nome Census Area",
+  "map": "Saint Lawrence C-3 NW"
+ },
+ {
+  "name": "Annin Glacier",
+  "lat": 61.1074749,
+  "lon": -146.6909276,
+  "elevation": 1000.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-8 SE"
+ },
+ {
+  "name": "Antler Glacier",
+  "lat": 58.8455556,
+  "lon": -134.6316667,
+  "elevation": 90.0,
+  "county": "Juneau",
+  "map": "Juneau D-2 SW"
+ },
+ {
+  "name": "Applegate Glacier",
+  "lat": 60.4567663,
+  "lon": -148.5986014,
+  "elevation": 636.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-5 NE"
+ },
+ {
+  "name": "Arey Glacier",
+  "lat": 69.2336601,
+  "lon": -143.8379804,
+  "elevation": 1914.0,
+  "county": "North Slope Borough",
+  "map": "Demarcation Point A-5 NW"
+ },
+ {
+  "name": "Art Lewis Glacier",
+  "lat": 59.8016766,
+  "lon": -138.8357395,
+  "elevation": 277.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-3 SE"
+ },
+ {
+  "name": "Arthur Glacier",
+  "lat": 59.222697,
+  "lon": -136.003532,
+  "elevation": 427.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-3 NW"
+ },
+ {
+  "name": "Atrevida Glacier",
+  "lat": 59.9945709,
+  "lon": -139.7626537,
+  "elevation": 854.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-5 NW"
+ },
+ {
+  "name": "Augusta Glacier",
+  "lat": 60.272081,
+  "lon": -140.420894,
+  "elevation": 1505.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias B-7 SE"
+ },
+ {
+  "name": "Aurel Glacier",
+  "lat": 59.226913,
+  "lon": -135.959245,
+  "elevation": 996.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-3 NW"
+ },
+ {
+  "name": "Aurora Glacier",
+  "lat": 58.6661111,
+  "lon": -136.7033333,
+  "elevation": 1021.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-3 NE"
+ },
+ {
+  "name": "Baby Glacier",
+  "lat": 61.1623186,
+  "lon": -147.6004856,
+  "elevation": 991.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-2 NW"
+ },
+ {
+  "name": "Bacon Glacier",
+  "lat": 58.6664658,
+  "lon": -133.8219389,
+  "elevation": 1312.0,
+  "county": "Juneau",
+  "map": "Taku River C-6 NE"
+ },
+ {
+  "name": "Bainbridge Glacier",
+  "lat": 60.1214431,
+  "lon": -148.520804,
+  "elevation": 796.0,
+  "county": "Chugach Census Area",
+  "map": "Seward A-5 SE"
+ },
+ {
+  "name": "Baird Glacier",
+  "lat": 57.210722,
+  "lon": -132.451207,
+  "elevation": 1024.0,
+  "county": "Petersburg Borough",
+  "map": "Sumdum A-2 NE"
+ },
+ {
+  "name": "Baker Glacier",
+  "lat": 61.0816458,
+  "lon": -148.3644772,
+  "elevation": 1127.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-4 SW"
+ },
+ {
+  "name": "Baldwin Glacier",
+  "lat": 60.7843378,
+  "lon": -141.3151867,
+  "elevation": 1862.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier D-1 SW"
+ },
+ {
+  "name": "Baldwin Glacier",
+  "lat": 58.9134315,
+  "lon": -136.4002107,
+  "elevation": 679.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-2 NE"
+ },
+ {
+  "name": "Baltimore Glacier",
+  "lat": 61.3031715,
+  "lon": -147.7743481,
+  "elevation": 1359.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-3 SE"
+ },
+ {
+  "name": "Barnard Glacier",
+  "lat": 61.1485275,
+  "lon": -141.6797921,
+  "elevation": 980.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy A-2 NW"
+ },
+ {
+  "name": "Barnard Glacier",
+  "lat": 61.1766754,
+  "lon": -147.9428778,
+  "elevation": 1242.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 NW"
+ },
+ {
+  "name": "Barrier Glacier",
+  "lat": 61.2954348,
+  "lon": -152.3321261,
+  "elevation": 2041.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-7 SE"
+ },
+ {
+  "name": "Barry Glacier",
+  "lat": 61.2191652,
+  "lon": -148.006685,
+  "elevation": 1088.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 NW"
+ },
+ {
+  "name": "Bartlett Glacier",
+  "lat": 60.6223394,
+  "lon": -148.9734623,
+  "elevation": 656.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-6 SE"
+ },
+ {
+  "name": "Battle Glacier",
+  "lat": 59.6673482,
+  "lon": -138.4721336,
+  "elevation": 677.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-2 NE"
+ },
+ {
+  "name": "Battle Glacier",
+  "lat": 58.6825021,
+  "lon": -134.5856741,
+  "elevation": 1299.0,
+  "county": "Juneau",
+  "map": "Juneau C-2 NW"
+ },
+ {
+  "name": "Bear Glacier",
+  "lat": 60.054214,
+  "lon": -149.675674,
+  "elevation": 484.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-8 SE"
+ },
+ {
+  "name": "Bear Lake Glacier",
+  "lat": 60.178398,
+  "lon": -149.268667,
+  "elevation": 784.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-7 NE"
+ },
+ {
+  "name": "Beare Glacier",
+  "lat": 60.0399039,
+  "lon": -141.6973537,
+  "elevation": 538.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-2 SW"
+ },
+ {
+  "name": "Beloit Glacier",
+  "lat": 60.6088469,
+  "lon": -148.711268,
+  "elevation": 919.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 SW"
+ },
+ {
+  "name": "Bench Glacier",
+  "lat": 61.0246768,
+  "lon": -145.6751565,
+  "elevation": 1340.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-5 SE"
+ },
+ {
+  "name": "Bering Glacier",
+  "lat": 60.409267,
+  "lon": -142.3154172,
+  "elevation": 1517.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-4 NW"
+ },
+ {
+  "name": "Bertha Glacier",
+  "lat": 59.1719808,
+  "lon": -135.8254376,
+  "elevation": 889.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-3 NE"
+ },
+ {
+  "name": "Betge Glacier",
+  "lat": 60.4680556,
+  "lon": -143.0013889,
+  "elevation": 734.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-6 NE"
+ },
+ {
+  "name": "Bettles Glacier",
+  "lat": 60.9302428,
+  "lon": -148.4106943,
+  "elevation": 787.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-4 NW"
+ },
+ {
+  "name": "Big River Lobe Double Glacier",
+  "lat": 60.689986,
+  "lon": -152.445946,
+  "elevation": 205.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai C-7 NW"
+ },
+ {
+  "name": "Billings Glacier",
+  "lat": 60.8822255,
+  "lon": -148.5744928,
+  "elevation": 775.0,
+  "county": "Anchorage",
+  "map": "Seward D-5 NE"
+ },
+ {
+  "name": "Bird Glacier",
+  "lat": 61.0093714,
+  "lon": -149.2830866,
+  "elevation": 953.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-7 SE"
+ },
+ {
+  "name": "Black Glacier",
+  "lat": 59.9731044,
+  "lon": -139.669942,
+  "elevation": 675.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-5 NE"
+ },
+ {
+  "name": "Black Rapids Glacier",
+  "lat": 63.4231186,
+  "lon": -146.487392,
+  "elevation": 1944.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-5 NW"
+ },
+ {
+  "name": "Black and Tan Glacier",
+  "lat": 61.720143,
+  "lon": -152.630825,
+  "elevation": 1320.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek C-8 NE"
+ },
+ {
+  "name": "Blackstone Glacier",
+  "lat": 60.611299,
+  "lon": -148.7681904,
+  "elevation": 965.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 SW"
+ },
+ {
+  "name": "Blockade Glacier",
+  "lat": 61.041171,
+  "lon": -152.19841,
+  "elevation": 107.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek A-6 SW"
+ },
+ {
+  "name": "Blossom Glacier",
+  "lat": 60.0331231,
+  "lon": -140.0780356,
+  "elevation": 849.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-6 SW"
+ },
+ {
+  "name": "Boulder Glacier",
+  "lat": 62.875964,
+  "lon": -152.115922,
+  "elevation": 1493.0,
+  "county": "Denali Borough",
+  "map": "Talkeetna D-5 NE"
+ },
+ {
+  "name": "Boundary Glacier",
+  "lat": 56.104048,
+  "lon": -130.1534873,
+  "elevation": 1112.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Bradfield Canal A-1 SE"
+ },
+ {
+  "name": "Boundary Glacier",
+  "lat": 59.3413889,
+  "lon": -136.4355556,
+  "elevation": 1328.0,
+  "county": "Haines Borough",
+  "map": "Skagway B-4 SW"
+ },
+ {
+  "name": "Brady Glacier",
+  "lat": 58.5669618,
+  "lon": -136.8252354,
+  "elevation": 607.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-3 SE"
+ },
+ {
+  "name": "Bravo Glacier",
+  "lat": 69.2660718,
+  "lon": -143.8291809,
+  "elevation": 2004.0,
+  "county": "North Slope Borough",
+  "map": "Demarcation Point B-5 SW"
+ },
+ {
+  "name": "Bremner Glacier",
+  "lat": 60.7761766,
+  "lon": -143.3342274,
+  "elevation": 1287.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier D-7 SE"
+ },
+ {
+  "name": "Bremner Glacier",
+  "lat": 60.832455,
+  "lon": -143.9387569,
+  "elevation": 1500.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier D-8 SW"
+ },
+ {
+  "name": "Bridge Glacier",
+  "lat": 58.377356,
+  "lon": -133.6205149,
+  "elevation": 656.0,
+  "county": "Juneau",
+  "map": "Taku River B-5 NW"
+ },
+ {
+  "name": "Brilliant Glacier",
+  "lat": 61.1323264,
+  "lon": -147.44309,
+  "elevation": 1034.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-2 NE"
+ },
+ {
+  "name": "Broken Glacier",
+  "lat": 63.4099039,
+  "lon": -145.5542577,
+  "elevation": 1644.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-4 NE"
+ },
+ {
+  "name": "Brooks Glacier",
+  "lat": 63.180066,
+  "lon": -150.577237,
+  "elevation": 1903.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 NE"
+ },
+ {
+  "name": "Brown Glacier",
+  "lat": 57.718631,
+  "lon": -132.882037,
+  "elevation": 1192.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Sumdum C-3 NW"
+ },
+ {
+  "name": "Bryn Mawr Glacier",
+  "lat": 61.2513654,
+  "lon": -147.8670116,
+  "elevation": 1407.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-3 SE"
+ },
+ {
+  "name": "Bucher Glacier",
+  "lat": 58.895947,
+  "lon": -134.503555,
+  "elevation": 1227.0,
+  "county": "Juneau",
+  "map": "Juneau D-2 NW"
+ },
+ {
+  "name": "Buckskin Glacier",
+  "lat": 62.982999,
+  "lon": -150.441971,
+  "elevation": 1108.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-1 NW"
+ },
+ {
+  "name": "Burns Glacier",
+  "lat": 60.730884,
+  "lon": -148.741665,
+  "elevation": 440.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 NW"
+ },
+ {
+  "name": "Burroughs Glacier",
+  "lat": 58.9856142,
+  "lon": -136.2652734,
+  "elevation": 175.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-1 NW"
+ },
+ {
+  "name": "Butler Glacier",
+  "lat": 59.9428659,
+  "lon": -139.050449,
+  "elevation": 1103.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-3 NW"
+ },
+ {
+  "name": "Byron Glacier",
+  "lat": 60.7415478,
+  "lon": -148.855759,
+  "elevation": 802.0,
+  "county": "Anchorage",
+  "map": "Seward C-5 NW"
+ },
+ {
+  "name": "Caldwell Glacier",
+  "lat": 62.3933333,
+  "lon": -152.6641667,
+  "elevation": 1323.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna B-6 NE"
+ },
+ {
+  "name": "Camicia Glacier",
+  "lat": 61.1861099,
+  "lon": -145.9873992,
+  "elevation": 1392.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-6 NE"
+ },
+ {
+  "name": "Cantwell Glacier",
+  "lat": 63.4428325,
+  "lon": -149.418957,
+  "elevation": 1765.0,
+  "county": "Denali Borough",
+  "map": "Healy B-5 NW"
+ },
+ {
+  "name": "Canwell Glacier",
+  "lat": 63.313612,
+  "lon": -145.442848,
+  "elevation": 1432.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SW"
+ },
+ {
+  "name": "Canyon Glacier",
+  "lat": 59.2805763,
+  "lon": -138.3977751,
+  "elevation": 810.0,
+  "county": "Yakutat",
+  "map": "Yakutat B-2 SE"
+ },
+ {
+  "name": "Cap Glacier",
+  "lat": 60.9511569,
+  "lon": -147.9079099,
+  "elevation": 979.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-3 NE"
+ },
+ {
+  "name": "Capps Glacier",
+  "lat": 61.380905,
+  "lon": -152.142134,
+  "elevation": 974.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-6 NW"
+ },
+ {
+  "name": "Carl Glacier",
+  "lat": 62.117566,
+  "lon": -141.5000808,
+  "elevation": 2301.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Nabesna A-2 SE"
+ },
+ {
+  "name": "Carroll Glacier",
+  "lat": 59.2020136,
+  "lon": -136.5393731,
+  "elevation": 1634.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-5 NE"
+ },
+ {
+  "name": "Carroll Glacier",
+  "lat": 59.1676647,
+  "lon": -136.5806132,
+  "elevation": 579.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-5 NE"
+ },
+ {
+  "name": "Cascade Glacier",
+  "lat": 61.158588,
+  "lon": -148.1917215,
+  "elevation": 1276.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-4 NE"
+ },
+ {
+  "name": "Cascade Glacier",
+  "lat": 58.66527,
+  "lon": -137.47083,
+  "elevation": 79.0,
+  "county": "Chugach Census Area",
+  "map": "Mount Fairweather C-5 NE"
+ },
+ {
+  "name": "Cascading Glacier",
+  "lat": 59.8021774,
+  "lon": -139.0628991,
+  "elevation": 1221.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-3 SW"
+ },
+ {
+  "name": "Casement Glacier",
+  "lat": 59.0725012,
+  "lon": -135.839055,
+  "elevation": 954.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-3 SE"
+ },
+ {
+  "name": "Casey Glacier",
+  "lat": 56.0268105,
+  "lon": -130.1847787,
+  "elevation": 911.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Bradfield Canal A-1 SW"
+ },
+ {
+  "name": "Castner Glacier",
+  "lat": 63.420568,
+  "lon": -145.611589,
+  "elevation": 1039.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-4 NE"
+ },
+ {
+  "name": "Cataract Glacier",
+  "lat": 61.0276693,
+  "lon": -148.4231625,
+  "elevation": 952.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-4 SW"
+ },
+ {
+  "name": "Central Valley Reach",
+  "lat": 60.358891,
+  "lon": -143.07908,
+  "elevation": 584.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-6 SW"
+ },
+ {
+  "name": "Ch'atanalch'elt Łi'a",
+  "lat": 61.3030798,
+  "lon": -152.1401264,
+  "elevation": 1122.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-6 SW"
+ },
+ {
+  "name": "Chamberlain Glacier",
+  "lat": 59.3803636,
+  "lon": -138.6530375,
+  "elevation": 794.0,
+  "county": "Yakutat",
+  "map": "Yakutat B-2 NW"
+ },
+ {
+  "name": "Chamberlin Glacier",
+  "lat": 69.2861316,
+  "lon": -144.9262613,
+  "elevation": 1946.0,
+  "county": "North Slope Borough",
+  "map": "Mount Michelson B-2 SW"
+ },
+ {
+  "name": "Charpentier Glacier",
+  "lat": 58.671402,
+  "lon": -136.6146671,
+  "elevation": 712.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-2 NW"
+ },
+ {
+  "name": "Chedotlothna Glacier",
+  "lat": 62.852009,
+  "lon": -151.951563,
+  "elevation": 1366.0,
+  "county": "Denali Borough",
+  "map": "Talkeetna D-4 SW"
+ },
+ {
+  "name": "Chenega Glacier",
+  "lat": 60.2741798,
+  "lon": -148.6155533,
+  "elevation": 1118.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward B-5 SE"
+ },
+ {
+  "name": "Chernof Glacier",
+  "lat": 59.855512,
+  "lon": -150.440941,
+  "elevation": 1096.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia D-2 SE"
+ },
+ {
+  "name": "Cheshnina Glacier",
+  "lat": 61.9062312,
+  "lon": -144.1148492,
+  "elevation": 2190.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez D-1 NE"
+ },
+ {
+  "name": "Chetaslina Glacier",
+  "lat": 61.9894905,
+  "lon": -144.1825801,
+  "elevation": 2622.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez D-1 NE"
+ },
+ {
+  "name": "Chichokna Glacier",
+  "lat": 62.009475,
+  "lon": -144.2896463,
+  "elevation": 1928.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana A-1 SW"
+ },
+ {
+  "name": "Chickaloon Glacier",
+  "lat": 62.0776084,
+  "lon": -148.4821129,
+  "elevation": 1762.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna Mountains A-3 SW"
+ },
+ {
+  "name": "Chickamin Glacier",
+  "lat": 56.1116882,
+  "lon": -130.3813992,
+  "elevation": 801.0,
+  "county": "Ketchikan Gateway Borough",
+  "map": "Bradfield Canal A-2 SE"
+ },
+ {
+  "name": "Chikuminuk Glacier",
+  "lat": 60.1186669,
+  "lon": -159.2892625,
+  "elevation": 871.0,
+  "county": "Dillingham Census Area",
+  "map": "Bethel A-1 SW"
+ },
+ {
+  "name": "Childs Glacier",
+  "lat": 60.6769743,
+  "lon": -144.9354561,
+  "elevation": 1028.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-3 NE"
+ },
+ {
+  "name": "Chilkat Glacier",
+  "lat": 59.655422,
+  "lon": -135.620041,
+  "elevation": 1014.0,
+  "county": "Skagway",
+  "map": "Skagway C-2 NW"
+ },
+ {
+  "name": "Chisana Glacier",
+  "lat": 61.9200024,
+  "lon": -142.4201209,
+  "elevation": 2048.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-4 NW"
+ },
+ {
+  "name": "Chistochina Glacier",
+  "lat": 63.208875,
+  "lon": -144.695778,
+  "elevation": 1764.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes A-2 NE"
+ },
+ {
+  "name": "Chitistone Glacier",
+  "lat": 61.4571236,
+  "lon": -142.0333558,
+  "elevation": 2354.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy B-3 NW"
+ },
+ {
+  "name": "Clara Smith Glacier",
+  "lat": 56.2438929,
+  "lon": -130.5275275,
+  "elevation": 1102.0,
+  "county": "Ketchikan Gateway Borough",
+  "map": "Bradfield Canal A-2 NW"
+ },
+ {
+  "name": "Claremont Glacier",
+  "lat": 60.5463728,
+  "lon": -148.6822384,
+  "elevation": 890.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 SE"
+ },
+ {
+  "name": "Clark Glacier",
+  "lat": 58.8099526,
+  "lon": -137.1110384,
+  "elevation": 1077.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 SE"
+ },
+ {
+  "name": "Clear Glacier",
+  "lat": 61.0584723,
+  "lon": -149.1550813,
+  "elevation": 1514.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 SW"
+ },
+ {
+  "name": "Cleave Creek Glacier",
+  "lat": 61.1345661,
+  "lon": -145.2050862,
+  "elevation": 1390.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-4 NE"
+ },
+ {
+  "name": "Coal Glacier",
+  "lat": 60.2104675,
+  "lon": -141.2404382,
+  "elevation": 1073.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-1 NW"
+ },
+ {
+  "name": "College Glacier",
+  "lat": 63.2601283,
+  "lon": -145.349236,
+  "elevation": 1679.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SW"
+ },
+ {
+  "name": "Colony Glacier",
+  "lat": 61.239379,
+  "lon": -148.508681,
+  "elevation": 242.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-5 NE"
+ },
+ {
+  "name": "Columbia Glacier",
+  "lat": 61.3006009,
+  "lon": -146.8860679,
+  "elevation": 940.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-8 SW"
+ },
+ {
+  "name": "Columbus Glacier",
+  "lat": 60.406389,
+  "lon": -141.086111,
+  "elevation": 1960.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier B-1 NE"
+ },
+ {
+  "name": "Concordia Glacier",
+  "lat": 60.6973407,
+  "lon": -148.7467407,
+  "elevation": 907.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 NW"
+ },
+ {
+  "name": "Cone Glacier",
+  "lat": 56.2108333,
+  "lon": -159.4891667,
+  "elevation": 868.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik A-5 NE"
+ },
+ {
+  "name": "Contact Glacier",
+  "lat": 60.4702585,
+  "lon": -148.4444988,
+  "elevation": 210.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-4 NW"
+ },
+ {
+  "name": "Contact Glacier",
+  "lat": 69.2634189,
+  "lon": -143.7141488,
+  "elevation": 2163.0,
+  "county": "North Slope Borough",
+  "map": "Demarcation Point B-5 SW"
+ },
+ {
+  "name": "Copper Glacier",
+  "lat": 62.0433585,
+  "lon": -143.776091,
+  "elevation": 2201.0,
+  "county": "Copper River Census Area",
+  "map": "Nabesna A-6 SW"
+ },
+ {
+  "name": "Corbin Glacier",
+  "lat": 61.1094945,
+  "lon": -146.00726,
+  "elevation": 1119.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-6 SE"
+ },
+ {
+  "name": "Cordova Glacier",
+  "lat": 60.857298,
+  "lon": -145.6561537,
+  "elevation": 1104.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-5 SE"
+ },
+ {
+  "name": "Cotterell Glacier",
+  "lat": 60.6062503,
+  "lon": -148.654263,
+  "elevation": 1023.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 SE"
+ },
+ {
+  "name": "Coxe Glacier",
+  "lat": 61.1438974,
+  "lon": -148.0368197,
+  "elevation": 1193.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 NW"
+ },
+ {
+  "name": "Crab Glacier",
+  "lat": 56.2400621,
+  "lon": -159.2983814,
+  "elevation": 1249.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik A-4 NW"
+ },
+ {
+  "name": "Crater Glacier",
+  "lat": 61.2726914,
+  "lon": -152.2645432,
+  "elevation": 2083.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-7 SE"
+ },
+ {
+  "name": "Crescent Glacier",
+  "lat": 60.9913389,
+  "lon": -147.854318,
+  "elevation": 557.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-3 NE"
+ },
+ {
+  "name": "Cross Creek Glacier",
+  "lat": 62.0359744,
+  "lon": -142.6500438,
+  "elevation": 2205.0,
+  "county": "Copper River Census Area",
+  "map": "Nabesna A-4 SE"
+ },
+ {
+  "name": "Crow Glacier",
+  "lat": 61.0484207,
+  "lon": -149.1476945,
+  "elevation": 1422.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 SW"
+ },
+ {
+  "name": "Cul-de-sac Glacier",
+  "lat": 62.4601127,
+  "lon": -152.7623497,
+  "elevation": 1488.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna B-6 NW"
+ },
+ {
+  "name": "Cushing Glacier",
+  "lat": 59.06101,
+  "lon": -136.455002,
+  "elevation": 433.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-4 SW"
+ },
+ {
+  "name": "Dadina Glacier",
+  "lat": 62.0341091,
+  "lon": -144.2272201,
+  "elevation": 2111.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana A-1 SE"
+ },
+ {
+  "name": "Dagelet Glacier",
+  "lat": 58.59678,
+  "lon": -137.204648,
+  "elevation": 2086.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-4 SW"
+ },
+ {
+  "name": "Daisy Glacier",
+  "lat": 60.1668184,
+  "lon": -141.2538408,
+  "elevation": 894.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-1 NW"
+ },
+ {
+  "name": "Dall Glacier",
+  "lat": 62.669731,
+  "lon": -152.073711,
+  "elevation": 826.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna C-5 NE"
+ },
+ {
+  "name": "Dartmouth Glacier",
+  "lat": 61.1682063,
+  "lon": -147.6172815,
+  "elevation": 978.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-2 NW"
+ },
+ {
+  "name": "Davidson Glacier",
+  "lat": 59.0341557,
+  "lon": -135.6475301,
+  "elevation": 1181.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-2 SW"
+ },
+ {
+  "name": "Dawes Glacier",
+  "lat": 57.451589,
+  "lon": -132.543182,
+  "elevation": 1089.0,
+  "county": "Petersburg Borough",
+  "map": "Sumdum B-2 NW"
+ },
+ {
+  "name": "Dead Branch Norris Glacier",
+  "lat": 58.4013889,
+  "lon": -134.2216667,
+  "elevation": 284.0,
+  "county": "Juneau",
+  "map": "Juneau B-1 NW"
+ },
+ {
+  "name": "Deadman Glacier",
+  "lat": 60.6504326,
+  "lon": -149.0094952,
+  "elevation": 794.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-6 NE"
+ },
+ {
+  "name": "Death Valley Branch Norris Glacier",
+  "lat": 58.489743,
+  "lon": -134.383049,
+  "elevation": 1228.0,
+  "county": "Juneau",
+  "map": "Juneau B-2 NE"
+ },
+ {
+  "name": "Demorest Glacier",
+  "lat": 58.68871,
+  "lon": -134.075088,
+  "elevation": 1258.0,
+  "county": "Juneau",
+  "map": "Juneau C-1 NE"
+ },
+ {
+  "name": "Denver Glacier",
+  "lat": 59.415917,
+  "lon": -135.096817,
+  "elevation": 1747.0,
+  "county": "Skagway",
+  "map": "Skagway B-1 NE"
+ },
+ {
+  "name": "Deserted Glacier",
+  "lat": 60.9951072,
+  "lon": -145.6054411,
+  "elevation": 1158.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-5 NE"
+ },
+ {
+  "name": "Desolation Glacier",
+  "lat": 58.7767894,
+  "lon": -137.5272132,
+  "elevation": 1103.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-5 SW"
+ },
+ {
+  "name": "Detached Glacier",
+  "lat": 61.0730261,
+  "lon": -148.3962692,
+  "elevation": 1137.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-4 SW"
+ },
+ {
+  "name": "Dickinson Glacier",
+  "lat": 59.2061752,
+  "lon": -135.9296526,
+  "elevation": 1036.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-3 NE"
+ },
+ {
+  "name": "Dinglestadt Glacier",
+  "lat": 59.709553,
+  "lon": -150.416001,
+  "elevation": 914.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-2 NE"
+ },
+ {
+  "name": "Dirty Glacier",
+  "lat": 60.9469671,
+  "lon": -148.4258302,
+  "elevation": 807.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-4 NW"
+ },
+ {
+  "name": "Dixon Glacier",
+  "lat": 59.6619216,
+  "lon": -150.892944,
+  "elevation": 933.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-3 NE"
+ },
+ {
+  "name": "Dogshead Glacier",
+  "lat": 61.3746909,
+  "lon": -152.0328726,
+  "elevation": 1218.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-6 SE"
+ },
+ {
+  "name": "Doroshin Glacier",
+  "lat": 59.4345981,
+  "lon": -151.0464246,
+  "elevation": 842.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia B-3 NW"
+ },
+ {
+  "name": "Double Glacier",
+  "lat": 60.6761111,
+  "lon": -152.6638889,
+  "elevation": 1020.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai C-8 NE"
+ },
+ {
+  "name": "Downer Glacier",
+  "lat": 61.2731562,
+  "lon": -147.6129958,
+  "elevation": 1046.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-2 SW"
+ },
+ {
+  "name": "Drift River Lobe Double Glacier",
+  "lat": 60.6622222,
+  "lon": -152.5113889,
+  "elevation": 560.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai C-7 NW"
+ },
+ {
+  "name": "Drop Glacier",
+  "lat": 62.2929771,
+  "lon": -144.0845895,
+  "elevation": 1793.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana B-1 SE"
+ },
+ {
+  "name": "Eagle Glacier",
+  "lat": 58.6343674,
+  "lon": -134.6619136,
+  "elevation": 915.0,
+  "county": "Juneau",
+  "map": "Juneau C-2 NW"
+ },
+ {
+  "name": "Eagle Glacier",
+  "lat": 61.0854094,
+  "lon": -148.9822528,
+  "elevation": 1234.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 SE"
+ },
+ {
+  "name": "Eaglek Glacier",
+  "lat": 60.9383888,
+  "lon": -147.8074004,
+  "elevation": 922.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-3 NE"
+ },
+ {
+  "name": "East Fork Kahiltna Glacier",
+  "lat": 63.009961,
+  "lon": -151.070937,
+  "elevation": null,
+  "county": "Denali Borough",
+  "map": "Denali A-3 SE"
+ },
+ {
+  "name": "East Nunatak Glacier",
+  "lat": 59.7197325,
+  "lon": -138.6483032,
+  "elevation": 549.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-2 NW"
+ },
+ {
+  "name": "East Twin Glacier",
+  "lat": 58.6525091,
+  "lon": -133.8888435,
+  "elevation": 1261.0,
+  "county": "Juneau",
+  "map": "Taku River C-6 NW"
+ },
+ {
+  "name": "Eberly Glacier",
+  "lat": 60.1305556,
+  "lon": -142.0544444,
+  "elevation": 679.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-3 NW"
+ },
+ {
+  "name": "Echo Glacier",
+  "lat": 58.738459,
+  "lon": -134.39661,
+  "elevation": null,
+  "county": "Juneau",
+  "map": "Juneau C-2 NE"
+ },
+ {
+  "name": "Eel Glacier",
+  "lat": 63.35583,
+  "lon": -145.460701,
+  "elevation": null,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SW"
+ },
+ {
+  "name": "Eklutna Glacier",
+  "lat": 61.206467,
+  "lon": -148.95092,
+  "elevation": null,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 NE"
+ },
+ {
+  "name": "Eldridge Glacier",
+  "lat": 63.01978,
+  "lon": -150.114098,
+  "elevation": null,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Denali A-1 SE"
+ },
+ {
+  "name": "Eliot Glacier",
+  "lat": 61.39309,
+  "lon": -147.673112,
+  "elevation": null,
+  "county": "Copper River Census Area",
+  "map": "Anchorage B-2 NW"
+ },
+ {
+  "name": "Ellsworth Glacier",
+  "lat": 60.226509,
+  "lon": -148.847923,
+  "elevation": null,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-5 NW"
+ },
+ {
+  "name": "Esetuk Glacier",
+  "lat": 69.2974816,
+  "lon": -144.3032194,
+  "elevation": 1933.0,
+  "county": "North Slope Borough",
+  "map": "Mount Michelson B-1 SW"
+ },
+ {
+  "name": "Eureka Glacier",
+  "lat": 63.3569416,
+  "lon": -146.3606873,
+  "elevation": 1512.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-5 SW"
+ },
+ {
+  "name": "Ewe Glacier",
+  "lat": 61.04337,
+  "lon": -141.284096,
+  "elevation": null,
+  "county": "Copper River Census Area",
+  "map": "McCarthy A-1 SW"
+ },
+ {
+  "name": "Excelsior Glacier",
+  "lat": 60.071345,
+  "lon": -148.761063,
+  "elevation": null,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-5 SW"
+ },
+ {
+  "name": "Exit Glacier",
+  "lat": 60.159616,
+  "lon": -149.733696,
+  "elevation": null,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-8 NE"
+ },
+ {
+  "name": "Explorer Glacier",
+  "lat": 60.7763307,
+  "lon": -148.9174996,
+  "elevation": 738.0,
+  "county": "Anchorage",
+  "map": "Seward D-6 SE"
+ },
+ {
+  "name": "Fairweather Glacier",
+  "lat": 58.8259443,
+  "lon": -137.7414517,
+  "elevation": 327.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-6 SE"
+ },
+ {
+  "name": "Falling Glacier",
+  "lat": 60.4650281,
+  "lon": -148.5035386,
+  "elevation": 569.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-5 NE"
+ },
+ {
+  "name": "Fan Glacier",
+  "lat": 60.8652441,
+  "lon": -143.8732175,
+  "elevation": 683.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier D-8 SW"
+ },
+ {
+  "name": "Fassett Glacier",
+  "lat": 59.3269397,
+  "lon": -138.507864,
+  "elevation": 441.0,
+  "county": "Yakutat",
+  "map": "Yakutat B-2 SE"
+ },
+ {
+  "name": "Ferebee Glacier",
+  "lat": 59.544828,
+  "lon": -135.619148,
+  "elevation": null,
+  "county": "Haines Borough",
+  "map": "Skagway C-2 SW"
+ },
+ {
+  "name": "Ferguson Glacier",
+  "lat": 56.0133354,
+  "lon": -130.2280958,
+  "elevation": 1122.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Bradfield Canal A-1 SW"
+ },
+ {
+  "name": "Fickett Glacier",
+  "lat": 60.5501249,
+  "lon": -145.0180845,
+  "elevation": 504.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-3 SW"
+ },
+ {
+  "name": "Field Glacier",
+  "lat": 59.0264095,
+  "lon": -134.4616585,
+  "elevation": 1704.0,
+  "county": "Haines Borough",
+  "map": "Atlin A-7 SW"
+ },
+ {
+  "name": "Finger Glacier",
+  "lat": 56.2052414,
+  "lon": -159.2377288,
+  "elevation": 1595.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik A-4 NW"
+ },
+ {
+  "name": "Finger Glacier",
+  "lat": 58.507021,
+  "lon": -137.111595,
+  "elevation": 943.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-4 SE"
+ },
+ {
+  "name": "Fleischmann Glacier",
+  "lat": 62.3536282,
+  "lon": -152.840317,
+  "elevation": 1317.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna B-6 SW"
+ },
+ {
+  "name": "Flute Glacier",
+  "lat": 61.142208,
+  "lon": -149.285489,
+  "elevation": null,
+  "county": "Anchorage",
+  "map": "Anchorage A-7 NE"
+ },
+ {
+  "name": "Fog Glacier",
+  "lat": 56.239878,
+  "lon": -159.449043,
+  "elevation": null,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik A-5 NE"
+ },
+ {
+  "name": "Foraker Glacier",
+  "lat": 63.03706,
+  "lon": -151.428817,
+  "elevation": 1653.0,
+  "county": "Denali Borough",
+  "map": "Denali A-3 SW"
+ },
+ {
+  "name": "Fourpeaked Glacier",
+  "lat": 58.775502,
+  "lon": -153.638021,
+  "elevation": null,
+  "county": "Kodiak Island Borough",
+  "map": "Afognak D-5 SW"
+ },
+ {
+  "name": "Fourth Glacier",
+  "lat": 59.6110549,
+  "lon": -139.0801654,
+  "elevation": 529.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-3 SW"
+ },
+ {
+  "name": "Fraser Glacier",
+  "lat": 60.766363,
+  "lon": -141.24367,
+  "elevation": null,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier D-1 SW"
+ },
+ {
+  "name": "Frederika Glacier",
+  "lat": 61.7789481,
+  "lon": -142.286421,
+  "elevation": 1824.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-4 SE"
+ },
+ {
+  "name": "Gabriel Icefall",
+  "lat": 63.27454,
+  "lon": -145.439328,
+  "elevation": null,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SW"
+ },
+ {
+  "name": "Gakona Glacier",
+  "lat": 63.259131,
+  "lon": -145.187073,
+  "elevation": null,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SE"
+ },
+ {
+  "name": "Galiano Glacier",
+  "lat": 59.9791295,
+  "lon": -139.7110905,
+  "elevation": 911.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-5 NW"
+ },
+ {
+  "name": "Gannett Glacier",
+  "lat": 61.2612702,
+  "lon": -148.2460613,
+  "elevation": 1727.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-4 SE"
+ },
+ {
+  "name": "Garrison Glacier",
+  "lat": 59.1373614,
+  "lon": -135.7512782,
+  "elevation": 1419.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-3 NE"
+ },
+ {
+  "name": "Gates Glacier",
+  "lat": 61.666558,
+  "lon": -142.977962,
+  "elevation": null,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-6 NE"
+ },
+ {
+  "name": "Geikie Glacier",
+  "lat": 58.5715488,
+  "lon": -136.6132676,
+  "elevation": 460.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-2 SW"
+ },
+ {
+  "name": "Gerstle Glacier",
+  "lat": 63.386144,
+  "lon": -145.36972,
+  "elevation": null,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 NW"
+ },
+ {
+  "name": "Giffin Glacier",
+  "lat": 61.5699068,
+  "lon": -141.4615006,
+  "elevation": 1838.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-2 SE"
+ },
+ {
+  "name": "Gilkey Glacier",
+  "lat": 58.891567,
+  "lon": -134.337301,
+  "elevation": null,
+  "county": "Juneau",
+  "map": "Juneau D-2 NE"
+ },
+ {
+  "name": "Gillam Glacier",
+  "lat": 63.6571805,
+  "lon": -147.1066674,
+  "elevation": 1611.0,
+  "county": "Denali Borough",
+  "map": "Healy C-1 NE"
+ },
+ {
+  "name": "Gilman Glacier",
+  "lat": 58.7621223,
+  "lon": -137.0046845,
+  "elevation": 1474.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 SE"
+ },
+ {
+  "name": "Girdled Glacier",
+  "lat": 58.9441215,
+  "lon": -135.7290431,
+  "elevation": 964.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Juneau D-6 NE"
+ },
+ {
+  "name": "Godwin Glacier",
+  "lat": 60.1645104,
+  "lon": -149.1980385,
+  "elevation": 894.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-6 NW"
+ },
+ {
+  "name": "Goodwin Glacier",
+  "lat": 60.6089852,
+  "lon": -144.9771555,
+  "elevation": 430.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-3 SW"
+ },
+ {
+  "name": "Gooseneck Glacier",
+  "lat": 69.3258016,
+  "lon": -143.7887307,
+  "elevation": 1938.0,
+  "county": "North Slope Borough",
+  "map": "Demarcation Point B-5 SW"
+ },
+ {
+  "name": "Gracey Creek Glacier",
+  "lat": 56.2209997,
+  "lon": -130.5686304,
+  "elevation": 1242.0,
+  "county": "Ketchikan Gateway Borough",
+  "map": "Bradfield Canal A-2 NW"
+ },
+ {
+  "name": "Grand Pacific Glacier",
+  "lat": 59.0699706,
+  "lon": -137.0474133,
+  "elevation": 77.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-6 SE"
+ },
+ {
+  "name": "Grand Plateau Glacier",
+  "lat": 59.0225346,
+  "lon": -137.9245947,
+  "elevation": 361.0,
+  "county": "Yakutat",
+  "map": "Skagway A-8 SW"
+ },
+ {
+  "name": "Gray Glacier",
+  "lat": 56.0205894,
+  "lon": -130.1640496,
+  "elevation": 1087.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Bradfield Canal A-1 SE"
+ },
+ {
+  "name": "Great Glacier",
+  "lat": 56.9382223,
+  "lon": -132.1092816,
+  "elevation": 1569.0,
+  "county": "Petersburg Borough",
+  "map": "Petersburg D-1 NE"
+ },
+ {
+  "name": "Great Icefall",
+  "lat": 63.153037,
+  "lon": -150.915155,
+  "elevation": 2720.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 NW"
+ },
+ {
+  "name": "Greenpoint Glacier",
+  "lat": 55.9857391,
+  "lon": -130.255471,
+  "elevation": 1073.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Ketchikan D-1 NW"
+ },
+ {
+  "name": "Grewingk Glacier",
+  "lat": 59.564737,
+  "lon": -150.915367,
+  "elevation": null,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-3 SE"
+ },
+ {
+  "name": "Griddlecake Glacier",
+  "lat": 60.4469444,
+  "lon": -143.4030556,
+  "elevation": 488.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier B-7 NE"
+ },
+ {
+  "name": "Grinnell Glacier",
+  "lat": 60.7151907,
+  "lon": -144.8059662,
+  "elevation": 857.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-3 NE"
+ },
+ {
+  "name": "Guerin Glacier",
+  "lat": 61.5457806,
+  "lon": -141.1166036,
+  "elevation": 2035.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-1 SE"
+ },
+ {
+  "name": "Gulkana Glacier",
+  "lat": 63.269631,
+  "lon": -145.413494,
+  "elevation": null,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SW"
+ },
+ {
+  "name": "Guyot Glacier",
+  "lat": 60.2143716,
+  "lon": -141.7644251,
+  "elevation": 1224.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-3 NE"
+ },
+ {
+  "name": "Hades Highway",
+  "lat": 58.6616667,
+  "lon": -133.9316667,
+  "elevation": 1196.0,
+  "county": "Juneau",
+  "map": "Taku River C-6 NW"
+ },
+ {
+  "name": "Haenke Glacier",
+  "lat": 60.0939448,
+  "lon": -139.6874297,
+  "elevation": 758.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-5 SE"
+ },
+ {
+  "name": "Hallo Glacier",
+  "lat": 58.4102778,
+  "lon": -154.2413889,
+  "elevation": 342.0,
+  "county": "Kodiak Island Borough",
+  "map": "Mount Katmai B-1 NW"
+ },
+ {
+  "name": "Hanging Glacier",
+  "lat": 59.849666,
+  "lon": -138.9324378,
+  "elevation": 890.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-3 SE"
+ },
+ {
+  "name": "Harding Icefield",
+  "lat": 60.0180556,
+  "lon": -149.9861111,
+  "elevation": 1342.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-8 SW"
+ },
+ {
+  "name": "Harper Glacier",
+  "lat": 63.097084,
+  "lon": -150.953691,
+  "elevation": 4616.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 SW"
+ },
+ {
+  "name": "Harper Icefall",
+  "lat": 63.1080556,
+  "lon": -150.9352778,
+  "elevation": 4049.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 SW"
+ },
+ {
+  "name": "Harpoon Glacier",
+  "lat": 56.232473,
+  "lon": -159.22983,
+  "elevation": null,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik A-4 NW"
+ },
+ {
+  "name": "Harpoon Glacier",
+  "lat": 61.368899,
+  "lon": -152.576113,
+  "elevation": null,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-7 SW"
+ },
+ {
+  "name": "Harriman Glacier",
+  "lat": 60.9378648,
+  "lon": -148.5289022,
+  "elevation": 467.0,
+  "county": "Anchorage",
+  "map": "Seward D-5 NE"
+ },
+ {
+  "name": "Harvard Glacier",
+  "lat": 61.340298,
+  "lon": -147.4264268,
+  "elevation": 1517.0,
+  "county": "Copper River Census Area",
+  "map": "Anchorage B-2 SE"
+ },
+ {
+  "name": "Hawkins Glacier",
+  "lat": 61.149373,
+  "lon": -141.969109,
+  "elevation": null,
+  "county": "Copper River Census Area",
+  "map": "McCarthy A-3 NW"
+ },
+ {
+  "name": "Hayden Glacier",
+  "lat": 60.06551,
+  "lon": -140.030022,
+  "elevation": null,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-6 SE"
+ },
+ {
+  "name": "Hayes Glacier",
+  "lat": 63.6688542,
+  "lon": -146.6460919,
+  "elevation": 1481.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes C-6 NE"
+ },
+ {
+  "name": "Hayes Glacier",
+  "lat": 61.685132,
+  "lon": -152.534523,
+  "elevation": null,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek C-7 NW"
+ },
+ {
+  "name": "Heiden Glacier",
+  "lat": 61.0434003,
+  "lon": -145.65998,
+  "elevation": 1396.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-5 SE"
+ },
+ {
+  "name": "Hendrickson Glacier",
+  "lat": 59.8068428,
+  "lon": -139.4382528,
+  "elevation": 793.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-4 SW"
+ },
+ {
+  "name": "Heney Glacier",
+  "lat": 60.860143,
+  "lon": -144.924946,
+  "elevation": null,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-3 SE"
+ },
+ {
+  "name": "Henry Glacier",
+  "lat": 59.853316,
+  "lon": -139.4896525,
+  "elevation": 883.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-4 SW"
+ },
+ {
+  "name": "Herbert Glacier",
+  "lat": 58.586706,
+  "lon": -134.602432,
+  "elevation": null,
+  "county": "Juneau",
+  "map": "Juneau C-2 SW"
+ },
+ {
+  "name": "Hesselberg Glacier",
+  "lat": 60.50833,
+  "lon": -143.30832,
+  "elevation": null,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier C-7 SE"
+ },
+ {
+  "name": "Hidden Glacier",
+  "lat": 59.68889,
+  "lon": -139.017906,
+  "elevation": null,
+  "county": "Yakutat",
+  "map": "Yakutat C-3 NW"
+ },
+ {
+  "name": "Hidden Glacier",
+  "lat": 56.0250577,
+  "lon": -130.1451675,
+  "elevation": 1070.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Bradfield Canal A-1 SE"
+ },
+ {
+  "name": "Hitchcock Glacier",
+  "lat": 60.09207,
+  "lon": -140.395491,
+  "elevation": null,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-7 SE"
+ },
+ {
+  "name": "Hogback Glacier",
+  "lat": 61.1022946,
+  "lon": -145.958851,
+  "elevation": 1332.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-6 SE"
+ },
+ {
+  "name": "Hole-In-The-Wall Glacier",
+  "lat": 61.6082121,
+  "lon": -142.2698517,
+  "elevation": 2543.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-4 SE"
+ },
+ {
+  "name": "Hole-in-the-Wall Glacier",
+  "lat": 58.6522728,
+  "lon": -134.1085306,
+  "elevation": 1195.0,
+  "county": "Juneau",
+  "map": "Juneau C-1 NE"
+ },
+ {
+  "name": "Holgate Glacier",
+  "lat": 59.868706,
+  "lon": -149.91497,
+  "elevation": null,
+  "county": "Kenai Peninsula Borough",
+  "map": "Blying Sound D-8 SW"
+ },
+ {
+  "name": "Holyoke Glacier",
+  "lat": 61.1645235,
+  "lon": -147.9585261,
+  "elevation": 1156.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 NW"
+ },
+ {
+  "name": "Hook Glacier",
+  "lat": 58.4475177,
+  "lon": -154.4170126,
+  "elevation": 1033.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Mount Katmai B-2 NE"
+ },
+ {
+  "name": "Hoonah Glacier",
+  "lat": 58.831605,
+  "lon": -137.02303,
+  "elevation": 1164.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 SE"
+ },
+ {
+  "name": "Hubbard Glacier",
+  "lat": 60.2065542,
+  "lon": -139.3194576,
+  "elevation": 1212.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-4 NW"
+ },
+ {
+  "name": "Hubley Glacier",
+  "lat": 69.2835368,
+  "lon": -143.7458619,
+  "elevation": 1948.0,
+  "county": "North Slope Borough",
+  "map": "Demarcation Point B-5 SW"
+ },
+ {
+  "name": "Hugh Miller Glacier",
+  "lat": 58.7247365,
+  "lon": -136.7027282,
+  "elevation": 787.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-3 NE"
+ },
+ {
+  "name": "Hummel Glacier",
+  "lat": 56.0255673,
+  "lon": -130.2584855,
+  "elevation": 1416.0,
+  "county": "Ketchikan Gateway Borough",
+  "map": "Bradfield Canal A-1 SW"
+ },
+ {
+  "name": "Hunter Creek Glacier",
+  "lat": 61.3180043,
+  "lon": -148.695064,
+  "elevation": 1572.0,
+  "county": "Anchorage",
+  "map": "Anchorage B-5 SW"
+ },
+ {
+  "name": "Icicle Glacier",
+  "lat": 61.2007923,
+  "lon": -149.0886422,
+  "elevation": 1658.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 NW"
+ },
+ {
+  "name": "Indian Glacier",
+  "lat": 60.1149325,
+  "lon": -150.2166376,
+  "elevation": 1390.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai A-1 SW"
+ },
+ {
+  "name": "Irene Glacier",
+  "lat": 59.575271,
+  "lon": -135.407584,
+  "elevation": 1466.0,
+  "county": "Skagway",
+  "map": "Skagway C-2 SE"
+ },
+ {
+  "name": "Island Glacier",
+  "lat": 56.2544444,
+  "lon": -159.3952778,
+  "elevation": 1443.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik B-5 SE"
+ },
+ {
+  "name": "Jacksina Glacier",
+  "lat": 62.066833,
+  "lon": -143.519722,
+  "elevation": 1982.0,
+  "county": "Copper River Census Area",
+  "map": "Nabesna A-6 SE"
+ },
+ {
+  "name": "Jarvis Glacier",
+  "lat": 59.3914835,
+  "lon": -136.4560307,
+  "elevation": 1235.0,
+  "county": "Haines Borough",
+  "map": "Skagway B-4 NW"
+ },
+ {
+  "name": "Jefferies Glacier",
+  "lat": 60.6188889,
+  "lon": -141.8486111,
+  "elevation": 1833.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier C-3 SE"
+ },
+ {
+  "name": "Jeffery Glacier",
+  "lat": 63.1377778,
+  "lon": -151.0758333,
+  "elevation": 1987.0,
+  "county": "Denali Borough",
+  "map": "Denali A-3 NE"
+ },
+ {
+  "name": "John Glacier",
+  "lat": 58.8563385,
+  "lon": -137.1740513,
+  "elevation": 1129.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 SW"
+ },
+ {
+  "name": "Johns Hopkins Glacier",
+  "lat": 58.7685419,
+  "lon": -137.1935378,
+  "elevation": 1190.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 SW"
+ },
+ {
+  "name": "Johnson Glacier",
+  "lat": 63.3596725,
+  "lon": -145.1411349,
+  "elevation": 1429.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SE"
+ },
+ {
+  "name": "Johnson Glacier",
+  "lat": 61.2491415,
+  "lon": -146.3697738,
+  "elevation": 1400.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-7 NE"
+ },
+ {
+  "name": "Johnson Glacier",
+  "lat": 60.5224184,
+  "lon": -144.3987772,
+  "elevation": 574.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-2 SE"
+ },
+ {
+  "name": "Johnson Glacier",
+  "lat": 60.1049309,
+  "lon": -153.0369297,
+  "elevation": 851.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Lake Clark A-1 SE"
+ },
+ {
+  "name": "Jones Glacier",
+  "lat": 58.9291667,
+  "lon": -137.1472222,
+  "elevation": 1577.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 NE"
+ },
+ {
+  "name": "Jumpoff Icefall",
+  "lat": 61.9455556,
+  "lon": -142.4286111,
+  "elevation": 1810.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-4 NW"
+ },
+ {
+  "name": "Juneau Icefield",
+  "lat": 58.6166667,
+  "lon": -134.5,
+  "elevation": 1543.0,
+  "county": "Juneau",
+  "map": "Juneau C-2 SE"
+ },
+ {
+  "name": "Kachemak Glacier",
+  "lat": 59.7003,
+  "lon": -150.5500719,
+  "elevation": 918.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-2 NE"
+ },
+ {
+  "name": "Kadachan Glacier",
+  "lat": 58.8931357,
+  "lon": -137.1096527,
+  "elevation": 1297.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 NE"
+ },
+ {
+  "name": "Kahiltna Glacier",
+  "lat": 62.8340637,
+  "lon": -151.227735,
+  "elevation": 1523.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-3 SE"
+ },
+ {
+  "name": "Kaliakh Lobe",
+  "lat": 60.3027778,
+  "lon": -143.1694444,
+  "elevation": 335.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-6 SW"
+ },
+ {
+  "name": "Kanikula Glacier",
+  "lat": 62.7635324,
+  "lon": -151.0579046,
+  "elevation": 996.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-3 SE"
+ },
+ {
+  "name": "Kashoto Glacier",
+  "lat": 58.855835,
+  "lon": -137.0122133,
+  "elevation": 1023.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 SE"
+ },
+ {
+  "name": "Kennicott Glacier",
+  "lat": 61.6319979,
+  "lon": -143.1393618,
+  "elevation": 1219.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-6 NW"
+ },
+ {
+  "name": "Keystone Glacier",
+  "lat": 61.1356813,
+  "lon": -145.9897822,
+  "elevation": 1279.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-6 NE"
+ },
+ {
+  "name": "Killey Glacier",
+  "lat": 60.1318821,
+  "lon": -150.142649,
+  "elevation": 1105.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai A-1 NE"
+ },
+ {
+  "name": "Kimball Glacier",
+  "lat": 63.2702567,
+  "lon": -144.5897151,
+  "elevation": 1484.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-2 SE"
+ },
+ {
+  "name": "Kings Glacier",
+  "lat": 60.4279966,
+  "lon": -148.5936518,
+  "elevation": 620.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-5 NE"
+ },
+ {
+  "name": "Klawasi Glacier",
+  "lat": 62.0853858,
+  "lon": -144.732757,
+  "elevation": 1816.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana A-2 SE"
+ },
+ {
+  "name": "Klooch Glacier",
+  "lat": 58.5970112,
+  "lon": -137.2945324,
+  "elevation": 1332.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-4 SW"
+ },
+ {
+  "name": "Klutina Glacier",
+  "lat": 61.3644751,
+  "lon": -146.237427,
+  "elevation": 1301.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-6 SW"
+ },
+ {
+  "name": "Klutlan Glacier",
+  "lat": 61.413813,
+  "lon": -141.321223,
+  "elevation": 2425.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy B-1 NW"
+ },
+ {
+  "name": "Kluvesna Glacier",
+  "lat": 61.8678683,
+  "lon": -143.81226,
+  "elevation": 1822.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-8 SE"
+ },
+ {
+  "name": "Knik Glacier",
+  "lat": 61.3389087,
+  "lon": -148.1395283,
+  "elevation": 1163.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-4 SE"
+ },
+ {
+  "name": "Konamoxt Glacier",
+  "lat": 59.2860734,
+  "lon": -137.7430382,
+  "elevation": 1696.0,
+  "county": "Yakutat",
+  "map": "Skagway B-8 SE"
+ },
+ {
+  "name": "Koniag Glacier",
+  "lat": 57.3751325,
+  "lon": -153.29693,
+  "elevation": 970.0,
+  "county": "Kodiak Island Borough",
+  "map": "Kodiak B-4 NW"
+ },
+ {
+  "name": "Krisha Glacier",
+  "lat": 59.2083333,
+  "lon": -135.825,
+  "elevation": 1223.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-3 NE"
+ },
+ {
+  "name": "Kulavok Glacier",
+  "lat": 69.2019578,
+  "lon": -144.863938,
+  "elevation": 2118.0,
+  "county": "North Slope Borough",
+  "map": "Mount Michelson A-2 NE"
+ },
+ {
+  "name": "Kuleska Glacier",
+  "lat": 60.3736111,
+  "lon": -142.5319444,
+  "elevation": 759.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-5 SE"
+ },
+ {
+  "name": "Kushtaka Glacier",
+  "lat": 60.4330556,
+  "lon": -144.0880556,
+  "elevation": 125.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova B-1 NE"
+ },
+ {
+  "name": "Kuskulana Glacier",
+  "lat": 61.6905177,
+  "lon": -143.5026712,
+  "elevation": 2343.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-7 NW"
+ },
+ {
+  "name": "K’idazq’eni Glacier",
+  "lat": 61.2277778,
+  "lon": -152.1208333,
+  "elevation": 661.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek A-6 NW"
+ },
+ {
+  "name": "La Gorce Glacier",
+  "lat": 60.730422,
+  "lon": -144.4527089,
+  "elevation": 635.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-2 NE"
+ },
+ {
+  "name": "La Perouse Glacier",
+  "lat": 58.5565913,
+  "lon": -137.1915703,
+  "elevation": 1275.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-4 SW"
+ },
+ {
+  "name": "Lacuna Glacier",
+  "lat": 62.7411111,
+  "lon": -151.5377778,
+  "elevation": 1019.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna C-4 NE"
+ },
+ {
+  "name": "Lafayette Glacier",
+  "lat": 61.0194576,
+  "lon": -147.7757866,
+  "elevation": 381.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 SE"
+ },
+ {
+  "name": "Lake George Glacier",
+  "lat": 61.0625477,
+  "lon": -148.6451478,
+  "elevation": 806.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-5 SE"
+ },
+ {
+  "name": "Lakina Glacier",
+  "lat": 61.6203737,
+  "lon": -143.30485,
+  "elevation": 1535.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-7 SE"
+ },
+ {
+  "name": "Lamb Glacier",
+  "lat": 61.0616667,
+  "lon": -141.2916667,
+  "elevation": 2349.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy A-1 SW"
+ },
+ {
+  "name": "Lamplugh Glacier",
+  "lat": 58.7798613,
+  "lon": -136.9150404,
+  "elevation": 727.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-3 SW"
+ },
+ {
+  "name": "Langdon Glacier",
+  "lat": 60.4048813,
+  "lon": -148.6273788,
+  "elevation": 690.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward B-5 NE"
+ },
+ {
+  "name": "Lare Glacier",
+  "lat": 60.0674374,
+  "lon": -141.8035476,
+  "elevation": 1588.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-3 SE"
+ },
+ {
+  "name": "Lateral Glacier",
+  "lat": 60.0568451,
+  "lon": -153.0081444,
+  "elevation": 822.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Lake Clark A-1 SE"
+ },
+ {
+  "name": "Latouche Glacier",
+  "lat": 59.8652878,
+  "lon": -139.5953077,
+  "elevation": 631.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-5 SE"
+ },
+ {
+  "name": "Laughton Glacier",
+  "lat": 59.5162349,
+  "lon": -135.1161849,
+  "elevation": 1316.0,
+  "county": "Skagway",
+  "map": "Skagway C-1 SE"
+ },
+ {
+  "name": "Lawrence Glacier",
+  "lat": 60.6524906,
+  "lon": -148.6084741,
+  "elevation": 673.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 NE"
+ },
+ {
+  "name": "Le Blondeau Glacier",
+  "lat": 59.2376469,
+  "lon": -136.2791625,
+  "elevation": 1065.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-4 NE"
+ },
+ {
+  "name": "LeConte Glacier",
+  "lat": 56.9698104,
+  "lon": -132.2788704,
+  "elevation": 1385.0,
+  "county": "Petersburg Borough",
+  "map": "Petersburg D-1 NW"
+ },
+ {
+  "name": "Leaking Glacier",
+  "lat": 58.4435041,
+  "lon": -134.4099161,
+  "elevation": 1307.0,
+  "county": "Juneau",
+  "map": "Juneau B-2 NE"
+ },
+ {
+  "name": "Learnard Glacier",
+  "lat": 60.8124701,
+  "lon": -148.7153096,
+  "elevation": 851.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-5 SW"
+ },
+ {
+  "name": "Lechner Glacier",
+  "lat": 59.9376075,
+  "lon": -149.6244274,
+  "elevation": 442.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Blying Sound D-7 NW"
+ },
+ {
+  "name": "Leeper Glacier",
+  "lat": 60.2483639,
+  "lon": -142.1807581,
+  "elevation": 1606.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-4 NE"
+ },
+ {
+  "name": "Leffingwell Glacier",
+  "lat": 69.2911661,
+  "lon": -144.1922914,
+  "elevation": 1848.0,
+  "county": "North Slope Borough",
+  "map": "Mount Michelson B-1 SE"
+ },
+ {
+  "name": "Lemon Creek Glacier",
+  "lat": 58.3796464,
+  "lon": -134.3487631,
+  "elevation": 1073.0,
+  "county": "Juneau",
+  "map": "Juneau B-2 NE"
+ },
+ {
+  "name": "Libbey Glacier",
+  "lat": 60.1752778,
+  "lon": -140.9483333,
+  "elevation": 716.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-8 NW"
+ },
+ {
+  "name": "Lime Glacier",
+  "lat": 61.8558634,
+  "lon": -142.1058444,
+  "elevation": 2340.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-3 SW"
+ },
+ {
+  "name": "Little Jarvis Glacier",
+  "lat": 59.3999193,
+  "lon": -136.4179642,
+  "elevation": 1205.0,
+  "county": "Haines Borough",
+  "map": "Skagway B-4 NW"
+ },
+ {
+  "name": "Lituya Glacier",
+  "lat": 58.7083811,
+  "lon": -137.4224399,
+  "elevation": 968.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-5 NE"
+ },
+ {
+  "name": "Logan Glacier",
+  "lat": 60.7771004,
+  "lon": -141.1796344,
+  "elevation": 2841.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier D-1 SE"
+ },
+ {
+  "name": "Long Glacier",
+  "lat": 61.9044517,
+  "lon": -144.0255846,
+  "elevation": 2070.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez D-1 NE"
+ },
+ {
+  "name": "Lookout Glacier",
+  "lat": 58.6,
+  "lon": -137.35,
+  "elevation": 415.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-5 SE"
+ },
+ {
+  "name": "Loomis Glacier",
+  "lat": 58.9315014,
+  "lon": -136.4239407,
+  "elevation": 672.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-2 NE"
+ },
+ {
+  "name": "Lowell Glacier",
+  "lat": 60.832431,
+  "lon": -148.6967241,
+  "elevation": 1026.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-5 SW"
+ },
+ {
+  "name": "Lowell Glacier",
+  "lat": 61.3077432,
+  "lon": -147.549965,
+  "elevation": 1157.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-2 SE"
+ },
+ {
+  "name": "Lowell Glacier",
+  "lat": 60.2050138,
+  "lon": -149.7510138,
+  "elevation": 1060.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-8 NE"
+ },
+ {
+  "name": "Lower Icefall",
+  "lat": 63.1880556,
+  "lon": -150.8527778,
+  "elevation": 2110.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 NW"
+ },
+ {
+  "name": "Lucia Glacier",
+  "lat": 60.0450622,
+  "lon": -139.8980558,
+  "elevation": 781.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-6 SE"
+ },
+ {
+  "name": "Maclaren Glacier",
+  "lat": 63.3294548,
+  "lon": -146.5354092,
+  "elevation": 1165.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Mount Hayes B-6 SE"
+ },
+ {
+  "name": "Malaspina Glacier",
+  "lat": 59.9714678,
+  "lon": -140.5237774,
+  "elevation": 467.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-7 NW"
+ },
+ {
+  "name": "Marcus Baker Glacier",
+  "lat": 61.4730189,
+  "lon": -147.9087137,
+  "elevation": 1516.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Anchorage B-3 NE"
+ },
+ {
+  "name": "Margerie Glacier",
+  "lat": 58.9141706,
+  "lon": -137.2558746,
+  "elevation": 1157.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 NW"
+ },
+ {
+  "name": "Marquette Glacier",
+  "lat": 60.6409662,
+  "lon": -148.6394777,
+  "elevation": 598.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 NE"
+ },
+ {
+  "name": "Marshall Glacier",
+  "lat": 61.0414057,
+  "lon": -145.5200106,
+  "elevation": 1306.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-5 SE"
+ },
+ {
+  "name": "Martin Glacier",
+  "lat": 59.2913838,
+  "lon": -138.4657954,
+  "elevation": 920.0,
+  "county": "Yakutat",
+  "map": "Yakutat B-2 SE"
+ },
+ {
+  "name": "Martin River Glacier",
+  "lat": 60.5497085,
+  "lon": -143.8725047,
+  "elevation": 746.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier C-8 SW"
+ },
+ {
+  "name": "Marvine Glacier",
+  "lat": 60.0913323,
+  "lon": -140.1322779,
+  "elevation": 1088.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-6 SW"
+ },
+ {
+  "name": "Matanuska Glacier",
+  "lat": 61.5119286,
+  "lon": -147.5497074,
+  "elevation": 1935.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Anchorage C-2 SE"
+ },
+ {
+  "name": "Matthes Glacier",
+  "lat": 58.7472222,
+  "lon": -134.1988889,
+  "elevation": 1478.0,
+  "county": "Juneau",
+  "map": "Juneau C-1 NW"
+ },
+ {
+  "name": "Maynard Glacier",
+  "lat": 58.6915884,
+  "lon": -136.6098966,
+  "elevation": 466.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-2 NW"
+ },
+ {
+  "name": "McArthur Glacier",
+  "lat": 61.1018791,
+  "lon": -152.4616427,
+  "elevation": 933.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek A-7 SW"
+ },
+ {
+  "name": "McCall Glacier",
+  "lat": 69.2821635,
+  "lon": -143.8204843,
+  "elevation": 2098.0,
+  "county": "North Slope Borough",
+  "map": "Demarcation Point B-5 SW"
+ },
+ {
+  "name": "McCallum Glacier",
+  "lat": 63.3044423,
+  "lon": -145.6156061,
+  "elevation": 1731.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-4 SE"
+ },
+ {
+  "name": "McCarthy Creek Glacier",
+  "lat": 61.6196317,
+  "lon": -142.8151722,
+  "elevation": 1280.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-5 SW"
+ },
+ {
+  "name": "McCarty Glacier",
+  "lat": 59.8065447,
+  "lon": -150.2532667,
+  "elevation": 1008.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia D-1 SW"
+ },
+ {
+  "name": "McCarty Glacier",
+  "lat": 59.8608553,
+  "lon": -139.4157991,
+  "elevation": 895.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-4 SW"
+ },
+ {
+  "name": "McCune Glacier",
+  "lat": 60.8575104,
+  "lon": -144.8257215,
+  "elevation": 1028.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-3 SE"
+ },
+ {
+  "name": "McGinnis Glacier",
+  "lat": 63.5409663,
+  "lon": -146.2104812,
+  "elevation": 1569.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes C-5 SE"
+ },
+ {
+  "name": "McPherson Glacier",
+  "lat": 60.5527598,
+  "lon": -144.5789342,
+  "elevation": 660.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-2 SW"
+ },
+ {
+  "name": "Meade Glacier",
+  "lat": 59.3910486,
+  "lon": -135.0454791,
+  "elevation": 1348.0,
+  "county": "Skagway",
+  "map": "Skagway B-1 NE"
+ },
+ {
+  "name": "Meares Glacier",
+  "lat": 61.2264945,
+  "lon": -147.394186,
+  "elevation": 1723.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-2 NE"
+ },
+ {
+  "name": "Mendenhall Glacier",
+  "lat": 58.534929,
+  "lon": -134.543037,
+  "elevation": 1032.0,
+  "county": "Juneau",
+  "map": "Juneau C-2 SW"
+ },
+ {
+  "name": "Metal Creek Glacier",
+  "lat": 61.6309389,
+  "lon": -148.3275249,
+  "elevation": 1711.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Anchorage C-4 NW"
+ },
+ {
+  "name": "Middle Branch Norris Glacier",
+  "lat": 58.4666667,
+  "lon": -134.25,
+  "elevation": 834.0,
+  "county": "Juneau",
+  "map": "Juneau B-1 NW"
+ },
+ {
+  "name": "Middle Fork Glacier",
+  "lat": 61.735717,
+  "lon": -142.1623543,
+  "elevation": 2036.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-4 NE"
+ },
+ {
+  "name": "Middle Fork Lobe Bremner Glacier",
+  "lat": 60.8068842,
+  "lon": -143.4418099,
+  "elevation": 1690.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier D-7 SW"
+ },
+ {
+  "name": "Miles Glacier",
+  "lat": 60.6310294,
+  "lon": -144.1445825,
+  "elevation": 710.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-1 NE"
+ },
+ {
+  "name": "Milk Glacier",
+  "lat": 61.0493064,
+  "lon": -149.0750714,
+  "elevation": 1356.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 SW"
+ },
+ {
+  "name": "Miller Glacier",
+  "lat": 60.0967952,
+  "lon": -139.5977524,
+  "elevation": 823.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-5 SE"
+ },
+ {
+  "name": "Miller Glacier",
+  "lat": 59.5391667,
+  "lon": -138.9908333,
+  "elevation": 513.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-3 SW"
+ },
+ {
+  "name": "Milton Glacier",
+  "lat": 60.6833333,
+  "lon": -148.7333333,
+  "elevation": 474.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 NW"
+ },
+ {
+  "name": "Mineral Creek Glacier",
+  "lat": 61.2761993,
+  "lon": -146.3169711,
+  "elevation": 1393.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez B-7 SE"
+ },
+ {
+  "name": "Mint Glacier",
+  "lat": 61.8713738,
+  "lon": -149.0601854,
+  "elevation": 1647.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Anchorage D-6 SE"
+ },
+ {
+  "name": "Moore Icefall",
+  "lat": 63.2834565,
+  "lon": -145.3764678,
+  "elevation": 1945.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SW"
+ },
+ {
+  "name": "Morse Glacier",
+  "lat": 59.1589572,
+  "lon": -136.4871204,
+  "elevation": 951.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-4 NW"
+ },
+ {
+  "name": "Morse Glacier",
+  "lat": 58.8689636,
+  "lon": -136.2996553,
+  "elevation": 563.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-1 SW"
+ },
+ {
+  "name": "Moser Glacier",
+  "lat": 59.5688308,
+  "lon": -139.0166164,
+  "elevation": 754.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-3 SW"
+ },
+ {
+  "name": "Mother Goose Glacier",
+  "lat": 60.3467437,
+  "lon": -149.1877454,
+  "elevation": 1247.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward B-6 SW"
+ },
+ {
+  "name": "Muir Glacier",
+  "lat": 59.2059482,
+  "lon": -136.4444768,
+  "elevation": 921.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-4 NW"
+ },
+ {
+  "name": "Muth Glacier",
+  "lat": 61.1127147,
+  "lon": -147.6666687,
+  "elevation": 799.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-2 SW"
+ },
+ {
+  "name": "Nabesna Glacier",
+  "lat": 61.8794956,
+  "lon": -143.3068156,
+  "elevation": 1990.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-7 NE"
+ },
+ {
+  "name": "Nadina Glacier",
+  "lat": 62.0543045,
+  "lon": -144.7207316,
+  "elevation": 1334.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana A-2 SE"
+ },
+ {
+  "name": "Natazhat Glacier",
+  "lat": 61.5246319,
+  "lon": -141.0369539,
+  "elevation": 2253.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-1 SE"
+ },
+ {
+  "name": "Nelchina Glacier",
+  "lat": 61.5576473,
+  "lon": -146.9251453,
+  "elevation": 1501.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez C-8 SW"
+ },
+ {
+  "name": "Nellie Juan Glacier",
+  "lat": 60.4307836,
+  "lon": -148.4875701,
+  "elevation": 586.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-4 NW"
+ },
+ {
+  "name": "Nelson Glacier",
+  "lat": 56.500761,
+  "lon": -132.0233009,
+  "elevation": 1016.0,
+  "county": "Wrangell",
+  "map": "Petersburg C-1 SE"
+ },
+ {
+  "name": "Nenana Glacier",
+  "lat": 63.5393715,
+  "lon": -147.628952,
+  "elevation": 1511.0,
+  "county": "Denali Borough",
+  "map": "Healy C-2 SE"
+ },
+ {
+  "name": "Netland Glacier",
+  "lat": 59.3801029,
+  "lon": -137.9114214,
+  "elevation": 915.0,
+  "county": "Yakutat",
+  "map": "Skagway B-8 NW"
+ },
+ {
+  "name": "Nikonda Glacier",
+  "lat": 62.0640263,
+  "lon": -142.7131603,
+  "elevation": 2379.0,
+  "county": "Copper River Census Area",
+  "map": "Nabesna A-4 SE"
+ },
+ {
+  "name": "Nizina Glacier",
+  "lat": 61.8033883,
+  "lon": -142.5992477,
+  "elevation": 1630.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-5 SE"
+ },
+ {
+  "name": "Noisy Glacier",
+  "lat": 58.268885,
+  "lon": -154.8634529,
+  "elevation": 847.0,
+  "county": "Kodiak Island Borough",
+  "map": "Mount Katmai B-3 SW"
+ },
+ {
+  "name": "Norris Glacier",
+  "lat": 58.4795259,
+  "lon": -134.2797024,
+  "elevation": 849.0,
+  "county": "Juneau",
+  "map": "Juneau B-1 NW"
+ },
+ {
+  "name": "North Baird Glacier",
+  "lat": 57.2668736,
+  "lon": -132.7273986,
+  "elevation": 881.0,
+  "county": "Petersburg Borough",
+  "map": "Sumdum B-3 SE"
+ },
+ {
+  "name": "North Branch Norris Glacier",
+  "lat": 58.5211111,
+  "lon": -134.2280556,
+  "elevation": 856.0,
+  "county": "Juneau",
+  "map": "Juneau C-1 SW"
+ },
+ {
+  "name": "North Branch Trimble Glacier",
+  "lat": 61.6947222,
+  "lon": -152.2394444,
+  "elevation": 902.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek C-6 NW"
+ },
+ {
+  "name": "North Crillon Glacier",
+  "lat": 58.6744474,
+  "lon": -137.3119521,
+  "elevation": 965.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-4 NW"
+ },
+ {
+  "name": "North Dawes Glacier",
+  "lat": 57.6398222,
+  "lon": -132.9287152,
+  "elevation": 750.0,
+  "county": "Petersburg Borough",
+  "map": "Sumdum C-3 NW"
+ },
+ {
+  "name": "North Fork Lobe Bremner Glacier",
+  "lat": 60.7714369,
+  "lon": -143.3356049,
+  "elevation": 1299.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier D-7 SE"
+ },
+ {
+  "name": "North Fork Ruth Glacier",
+  "lat": 63.0491667,
+  "lon": -150.6825,
+  "elevation": 2042.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Denali A-2 SE"
+ },
+ {
+  "name": "North Twin Glacier",
+  "lat": 61.5000455,
+  "lon": -152.5715385,
+  "elevation": 1554.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek C-7 SW"
+ },
+ {
+  "name": "Northeast Fork Kahiltna Glacier",
+  "lat": 63.0441667,
+  "lon": -151.1055556,
+  "elevation": 2767.0,
+  "county": "Denali Borough",
+  "map": "Denali A-3 SE"
+ },
+ {
+  "name": "Northland Glacier",
+  "lat": 60.656132,
+  "lon": -148.7659849,
+  "elevation": 598.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 NW"
+ },
+ {
+  "name": "Northwest Fork Ruth Glacier",
+  "lat": 63.0336111,
+  "lon": -150.865,
+  "elevation": 2415.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 SW"
+ },
+ {
+  "name": "Northwestern Glacier",
+  "lat": 59.8733481,
+  "lon": -150.0315404,
+  "elevation": 909.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia D-1 SE"
+ },
+ {
+  "name": "Novatak Glacier",
+  "lat": 59.5054385,
+  "lon": -138.4420813,
+  "elevation": 377.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-2 SE"
+ },
+ {
+  "name": "Nugget Creek Glacier",
+  "lat": 58.4323756,
+  "lon": -134.3691631,
+  "elevation": 1216.0,
+  "county": "Juneau",
+  "map": "Juneau B-2 NE"
+ },
+ {
+  "name": "Nuka Glacier",
+  "lat": 59.6565219,
+  "lon": -150.7616756,
+  "elevation": 980.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-3 NE"
+ },
+ {
+  "name": "Oasis Glacier",
+  "lat": 57.2630689,
+  "lon": -132.5743566,
+  "elevation": 827.0,
+  "county": "Petersburg Borough",
+  "map": "Sumdum B-2 SW"
+ },
+ {
+  "name": "Ogive Glacier",
+  "lat": 59.805587,
+  "lon": -150.12599,
+  "elevation": 1422.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia D-1 SE"
+ },
+ {
+  "name": "Ogive Glacier",
+  "lat": 59.0773994,
+  "lon": -134.7567317,
+  "elevation": 917.0,
+  "county": "Haines Borough",
+  "map": "Atlin A-8 SE"
+ },
+ {
+  "name": "Okpilak Glacier",
+  "lat": 69.1546479,
+  "lon": -144.0382299,
+  "elevation": 1857.0,
+  "county": "North Slope Borough",
+  "map": "Mount Michelson A-1 NE"
+ },
+ {
+  "name": "Orange Glacier",
+  "lat": 59.9461317,
+  "lon": -139.2105231,
+  "elevation": 533.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-4 NE"
+ },
+ {
+  "name": "Organ Glacier",
+  "lat": 61.1411524,
+  "lon": -149.2339001,
+  "elevation": 1400.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 NW"
+ },
+ {
+  "name": "Outlet Glacier",
+  "lat": 56.2538724,
+  "lon": -159.3613898,
+  "elevation": 1249.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik B-5 SE"
+ },
+ {
+  "name": "Ovtsyn Glacier",
+  "lat": 60.4583333,
+  "lon": -142.8916667,
+  "elevation": 727.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-6 NE"
+ },
+ {
+  "name": "Pangnik Glacier",
+  "lat": 69.1906773,
+  "lon": -144.8604536,
+  "elevation": 1821.0,
+  "county": "North Slope Borough",
+  "map": "Mount Michelson A-2 NE"
+ },
+ {
+  "name": "Patterson Glacier",
+  "lat": 56.9877498,
+  "lon": -132.5881748,
+  "elevation": 466.0,
+  "county": "Petersburg Borough",
+  "map": "Petersburg D-2 NW"
+ },
+ {
+  "name": "Patton Glacier",
+  "lat": 58.8990152,
+  "lon": -136.3073062,
+  "elevation": 862.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-1 NW"
+ },
+ {
+  "name": "Pedersen Glacier",
+  "lat": 59.9074424,
+  "lon": -149.8542423,
+  "elevation": 831.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Blying Sound D-8 NW"
+ },
+ {
+  "name": "Pedro Glacier",
+  "lat": 61.1305255,
+  "lon": -147.3122768,
+  "elevation": 1104.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-1 NW"
+ },
+ {
+  "name": "Pegmatite Glacier",
+  "lat": 63.2668266,
+  "lon": -145.3844617,
+  "elevation": 1810.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 SW"
+ },
+ {
+  "name": "Penniman Glaciers",
+  "lat": 61.0877346,
+  "lon": -148.3485078,
+  "elevation": 1173.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-4 SW"
+ },
+ {
+  "name": "Peters Basin",
+  "lat": 63.1119444,
+  "lon": -151.1769444,
+  "elevation": 2285.0,
+  "county": "Denali Borough",
+  "map": "Denali A-3 SE"
+ },
+ {
+  "name": "Peters Glacier",
+  "lat": 63.0874081,
+  "lon": -151.0572974,
+  "elevation": 4875.0,
+  "county": "Denali Borough",
+  "map": "Denali A-3 SE"
+ },
+ {
+  "name": "Petrof Glacier",
+  "lat": 59.4615481,
+  "lon": -150.8335689,
+  "elevation": 693.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia B-3 NE"
+ },
+ {
+  "name": "Pigot Glacier",
+  "lat": 60.9037928,
+  "lon": -148.478089,
+  "elevation": 344.0,
+  "county": "Anchorage",
+  "map": "Seward D-4 NW"
+ },
+ {
+  "name": "Pinnacle Glacier",
+  "lat": 60.1422222,
+  "lon": -140.3197222,
+  "elevation": 1044.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-7 NE"
+ },
+ {
+  "name": "Plateau Glacier",
+  "lat": 58.9716608,
+  "lon": -136.3512984,
+  "elevation": 136.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-2 NE"
+ },
+ {
+  "name": "Polychrome Glacier",
+  "lat": 63.4474497,
+  "lon": -149.8408635,
+  "elevation": 1782.0,
+  "county": "Denali Borough",
+  "map": "Healy B-6 NW"
+ },
+ {
+  "name": "Popof Glacier",
+  "lat": 56.7426157,
+  "lon": -132.2781191,
+  "elevation": 717.0,
+  "county": "Wrangell",
+  "map": "Petersburg C-1 NW"
+ },
+ {
+  "name": "Porcupine Glacier",
+  "lat": 60.0012232,
+  "lon": -149.2617497,
+  "elevation": 597.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-7 SE"
+ },
+ {
+  "name": "Portage Glacier",
+  "lat": 60.7188335,
+  "lon": -148.8031462,
+  "elevation": 962.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 NW"
+ },
+ {
+  "name": "Portlock Glacier",
+  "lat": 59.622095,
+  "lon": -150.9011417,
+  "elevation": 1044.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-3 SE"
+ },
+ {
+  "name": "Pothole Glacier",
+  "lat": 61.3103741,
+  "lon": -152.3845987,
+  "elevation": 1871.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-7 SE"
+ },
+ {
+  "name": "Powell Glacier",
+  "lat": 61.5686673,
+  "lon": -147.2008561,
+  "elevation": 1710.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Anchorage C-1 SW"
+ },
+ {
+  "name": "Princeton Glacier",
+  "lat": 60.3616716,
+  "lon": -148.4393622,
+  "elevation": 577.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-4 SW"
+ },
+ {
+  "name": "Prospect Glacier",
+  "lat": 60.0291327,
+  "lon": -149.255913,
+  "elevation": 757.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-7 SE"
+ },
+ {
+  "name": "Ptarmigan Glacier",
+  "lat": 58.3694931,
+  "lon": -134.3744105,
+  "elevation": 1115.0,
+  "county": "Juneau",
+  "map": "Juneau B-2 SE"
+ },
+ {
+  "name": "Puget Glacier",
+  "lat": 60.073481,
+  "lon": -148.5762878,
+  "elevation": 919.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-5 SE"
+ },
+ {
+  "name": "Quintino Sella Glacier",
+  "lat": 60.5441667,
+  "lon": -141.0208333,
+  "elevation": 2307.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier C-1 SE"
+ },
+ {
+  "name": "Radcliffe Glacier",
+  "lat": 61.328269,
+  "lon": -147.7022552,
+  "elevation": 650.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-2 SW"
+ },
+ {
+  "name": "Rainbow Glacier",
+  "lat": 59.114604,
+  "lon": -135.505031,
+  "elevation": 1088.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-2 SE"
+ },
+ {
+  "name": "Rainy Glacier",
+  "lat": 60.6443925,
+  "lon": -148.5436697,
+  "elevation": 729.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 NE"
+ },
+ {
+  "name": "Ram Glacier",
+  "lat": 61.0715319,
+  "lon": -141.3490192,
+  "elevation": 1779.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy A-1 SW"
+ },
+ {
+  "name": "Ranney Glacier",
+  "lat": 61.1814167,
+  "lon": -147.5720292,
+  "elevation": 1094.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-2 NW"
+ },
+ {
+  "name": "Rasmuson Glacier",
+  "lat": 59.7355984,
+  "lon": -139.4132022,
+  "elevation": 314.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-4 NW"
+ },
+ {
+  "name": "Raven Glacier",
+  "lat": 61.0622531,
+  "lon": -149.0747815,
+  "elevation": 1377.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 SW"
+ },
+ {
+  "name": "Red Glacier",
+  "lat": 60.0051539,
+  "lon": -152.9523161,
+  "elevation": 566.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai A-8 SW"
+ },
+ {
+  "name": "Red Glacier",
+  "lat": 55.950213,
+  "lon": -130.1712198,
+  "elevation": 1096.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Ketchikan D-1 NW"
+ },
+ {
+  "name": "Regal Glacier",
+  "lat": 61.6914001,
+  "lon": -142.5578579,
+  "elevation": 1063.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-5 NE"
+ },
+ {
+  "name": "Reid Glacier",
+  "lat": 58.7402359,
+  "lon": -136.8230081,
+  "elevation": 768.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-3 NE"
+ },
+ {
+  "name": "Rendu Glacier",
+  "lat": 59.0842968,
+  "lon": -136.8535945,
+  "elevation": 863.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-5 SW"
+ },
+ {
+  "name": "Revelation Glacier",
+  "lat": 61.6718664,
+  "lon": -154.1821642,
+  "elevation": 1745.0,
+  "county": "Bethel Census Area",
+  "map": "Lime Hills C-4 NE"
+ },
+ {
+  "name": "Rex Glacier",
+  "lat": 61.295721,
+  "lon": -142.430512,
+  "elevation": 1819.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy B-4 SW"
+ },
+ {
+  "name": "Riggs Glacier",
+  "lat": 59.1699345,
+  "lon": -136.2601266,
+  "elevation": 1003.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Skagway A-4 NE"
+ },
+ {
+  "name": "Riley Creek Glacier",
+  "lat": 63.5461989,
+  "lon": -145.578653,
+  "elevation": 1824.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes C-4 SE"
+ },
+ {
+  "name": "Ripon Glacier",
+  "lat": 60.6702133,
+  "lon": -148.5906728,
+  "elevation": 511.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 NE"
+ },
+ {
+  "name": "Roaring Glacier",
+  "lat": 60.998812,
+  "lon": -148.4585559,
+  "elevation": 888.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-4 NW"
+ },
+ {
+  "name": "Robertson Glacier",
+  "lat": 63.2180933,
+  "lon": -144.5839631,
+  "elevation": 2068.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes A-2 NE"
+ },
+ {
+  "name": "Rodman Glacier",
+  "lat": 59.3408333,
+  "lon": -138.6963889,
+  "elevation": 265.0,
+  "county": "Yakutat",
+  "map": "Yakutat B-2 SW"
+ },
+ {
+  "name": "Rohn Glacier",
+  "lat": 61.7538889,
+  "lon": -142.4908333,
+  "elevation": 1290.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-4 SW"
+ },
+ {
+  "name": "Romer Glacier",
+  "lat": 58.9832685,
+  "lon": -136.7459863,
+  "elevation": 946.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-3 NE"
+ },
+ {
+  "name": "Root Glacier",
+  "lat": 61.6322204,
+  "lon": -142.8970181,
+  "elevation": 1263.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-6 NE"
+ },
+ {
+  "name": "Roscoe Glacier",
+  "lat": 59.8019913,
+  "lon": -153.4194751,
+  "elevation": 832.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Iliamna D-2 SE"
+ },
+ {
+  "name": "Rubin Glacier",
+  "lat": 61.1263423,
+  "lon": -146.0340281,
+  "elevation": 1167.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-6 NE"
+ },
+ {
+  "name": "Russell Glacier",
+  "lat": 61.5211417,
+  "lon": -141.601224,
+  "elevation": 2491.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-2 SW"
+ },
+ {
+  "name": "Ruth Glacier",
+  "lat": 62.9145761,
+  "lon": -150.6845383,
+  "elevation": 1239.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-2 NE"
+ },
+ {
+  "name": "Saddlebag Glacier",
+  "lat": 60.5189172,
+  "lon": -145.0691418,
+  "elevation": 779.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-3 SW"
+ },
+ {
+  "name": "Saksaia Glacier",
+  "lat": 59.3682447,
+  "lon": -136.4182581,
+  "elevation": 1291.0,
+  "county": "Haines Borough",
+  "map": "Skagway B-4 SW"
+ },
+ {
+  "name": "Sanford Glacier",
+  "lat": 62.0582512,
+  "lon": -144.1588193,
+  "elevation": 2734.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana A-1 SE"
+ },
+ {
+  "name": "Sargent Icefield",
+  "lat": 60.385,
+  "lon": -148.4344444,
+  "elevation": 594.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-4 NW"
+ },
+ {
+  "name": "Sarokin Glacier",
+  "lat": 60.4752778,
+  "lon": -142.3963889,
+  "elevation": 1204.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-4 NW"
+ },
+ {
+  "name": "Saussure Glacier",
+  "lat": 59.6603596,
+  "lon": -135.3459246,
+  "elevation": 1539.0,
+  "county": "Skagway",
+  "map": "Skagway C-1 NW"
+ },
+ {
+  "name": "Sawyer Glacier",
+  "lat": 57.9018818,
+  "lon": -133.0134934,
+  "elevation": 1425.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Sumdum D-4 NE"
+ },
+ {
+  "name": "Schubee Glacier",
+  "lat": 59.3406653,
+  "lon": -135.2568109,
+  "elevation": 1285.0,
+  "county": "Haines Borough",
+  "map": "Skagway B-1 SW"
+ },
+ {
+  "name": "Schwan Glacier",
+  "lat": 60.8872218,
+  "lon": -145.1418262,
+  "elevation": 1201.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-4 NE"
+ },
+ {
+  "name": "Schwanda Glacier",
+  "lat": 69.2643768,
+  "lon": -143.7674827,
+  "elevation": 1993.0,
+  "county": "North Slope Borough",
+  "map": "Demarcation Point B-5 SW"
+ },
+ {
+  "name": "Scidmore Glacier",
+  "lat": 58.8022646,
+  "lon": -136.7396672,
+  "elevation": 789.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-3 SE"
+ },
+ {
+  "name": "Science Glacier",
+  "lat": 61.4476611,
+  "lon": -146.8680587,
+  "elevation": 2010.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-8 NW"
+ },
+ {
+  "name": "Scott Glacier",
+  "lat": 60.6955894,
+  "lon": -145.1976313,
+  "elevation": 688.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-4 NE"
+ },
+ {
+  "name": "Sea Otter Glacier",
+  "lat": 58.9256871,
+  "lon": -137.7021765,
+  "elevation": 833.0,
+  "county": "Yakutat",
+  "map": "Mount Fairweather D-6 NE"
+ },
+ {
+  "name": "Serpentine Glacier",
+  "lat": 61.126973,
+  "lon": -148.2729911,
+  "elevation": 507.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-4 NE"
+ },
+ {
+  "name": "Seth Glacier",
+  "lat": 60.8754576,
+  "lon": -148.5154919,
+  "elevation": 810.0,
+  "county": "Anchorage",
+  "map": "Seward D-5 NE"
+ },
+ {
+  "name": "Seward Glacier",
+  "lat": 60.2928914,
+  "lon": -140.9317931,
+  "elevation": 5347.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias B-8 SW"
+ },
+ {
+  "name": "Shadows Glacier",
+  "lat": 62.4658333,
+  "lon": -152.7022222,
+  "elevation": 1256.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna B-6 NE"
+ },
+ {
+  "name": "Shakes Glacier",
+  "lat": 56.7770844,
+  "lon": -132.2362044,
+  "elevation": 1103.0,
+  "county": "Wrangell",
+  "map": "Petersburg D-1 SW"
+ },
+ {
+  "name": "Shakespeare Glacier",
+  "lat": 60.7526689,
+  "lon": -148.7276215,
+  "elevation": 664.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-5 SW"
+ },
+ {
+  "name": "Shamrock Glacier",
+  "lat": 61.0654663,
+  "lon": -152.8246728,
+  "elevation": 1573.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek A-8 SW"
+ },
+ {
+  "name": "Sheep Glacier",
+  "lat": 62.3241816,
+  "lon": -144.2206155,
+  "elevation": 2055.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana B-1 SE"
+ },
+ {
+  "name": "Shelf Glacier",
+  "lat": 62.4591667,
+  "lon": -152.7327778,
+  "elevation": 1745.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna B-6 NE"
+ },
+ {
+  "name": "Shelter Valley Glacier",
+  "lat": 61.7952778,
+  "lon": -142.4852778,
+  "elevation": 1614.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-4 SW"
+ },
+ {
+  "name": "Shephard Glacier",
+  "lat": 60.6966399,
+  "lon": -145.3709429,
+  "elevation": 1034.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-4 NW"
+ },
+ {
+  "name": "Sheridan Glacier",
+  "lat": 60.5631128,
+  "lon": -145.2802428,
+  "elevation": 253.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-4 SE"
+ },
+ {
+  "name": "Sherman Glacier",
+  "lat": 60.561541,
+  "lon": -145.1017149,
+  "elevation": 476.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-3 SW"
+ },
+ {
+  "name": "Shiels Glacier",
+  "lat": 60.8709214,
+  "lon": -144.7777325,
+  "elevation": 876.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-3 SE"
+ },
+ {
+  "name": "Shoup Glacier",
+  "lat": 61.226853,
+  "lon": -146.4175677,
+  "elevation": 1281.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-7 NE"
+ },
+ {
+  "name": "Silver Glacier",
+  "lat": 60.8876268,
+  "lon": -146.4163096,
+  "elevation": 581.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-7 NE"
+ },
+ {
+  "name": "Skee Glacier",
+  "lat": 59.9944472,
+  "lon": -149.7053417,
+  "elevation": 864.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Blying Sound D-8 NE"
+ },
+ {
+  "name": "Skilak Glacier",
+  "lat": 60.1203341,
+  "lon": -150.0401178,
+  "elevation": 1152.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai A-1 SE"
+ },
+ {
+  "name": "Skookum Glacier",
+  "lat": 60.7185473,
+  "lon": -148.8828612,
+  "elevation": 398.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-6 NE"
+ },
+ {
+  "name": "Slide Glacier",
+  "lat": 60.5294668,
+  "lon": -144.2870582,
+  "elevation": 685.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-1 SW"
+ },
+ {
+  "name": "Slim Glacier",
+  "lat": 56.1821814,
+  "lon": -159.2622014,
+  "elevation": 1393.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Chignik A-4 NW"
+ },
+ {
+  "name": "Slope Glacier",
+  "lat": 60.4649139,
+  "lon": -143.8479452,
+  "elevation": 911.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier B-8 NW"
+ },
+ {
+  "name": "Smith Glacier",
+  "lat": 61.2892439,
+  "lon": -147.8161361,
+  "elevation": 1567.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-3 SE"
+ },
+ {
+  "name": "Soule Glacier",
+  "lat": 55.9421134,
+  "lon": -130.3043686,
+  "elevation": 860.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Ketchikan D-1 NW"
+ },
+ {
+  "name": "South Branch Trimble Glacier",
+  "lat": 61.6508333,
+  "lon": -152.1483333,
+  "elevation": 846.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek C-6 NW"
+ },
+ {
+  "name": "South Crillon Glacier",
+  "lat": 58.6312967,
+  "lon": -137.281624,
+  "elevation": 1110.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather C-4 NW"
+ },
+ {
+  "name": "South Glacier",
+  "lat": 59.4651618,
+  "lon": -135.0581537,
+  "elevation": 1168.0,
+  "county": "Skagway",
+  "map": "Skagway B-1 NE"
+ },
+ {
+  "name": "South Sawyer Glacier",
+  "lat": 57.706127,
+  "lon": -132.8533888,
+  "elevation": 1200.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Sumdum C-3 NW"
+ },
+ {
+  "name": "South Twin Glacier",
+  "lat": 61.4375914,
+  "lon": -152.5390011,
+  "elevation": 1630.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek B-7 NW"
+ },
+ {
+  "name": "Southeast Fork Kahiltna Glacier",
+  "lat": 62.9677778,
+  "lon": -151.1211111,
+  "elevation": 2377.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-3 NE"
+ },
+ {
+  "name": "Southern Glacier",
+  "lat": 59.3870142,
+  "lon": -151.1198938,
+  "elevation": 646.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia B-3 NW"
+ },
+ {
+  "name": "Southwest Branch Taku Glacier",
+  "lat": 58.5513889,
+  "lon": -134.2886111,
+  "elevation": 1183.0,
+  "county": "Juneau",
+  "map": "Juneau C-1 SW"
+ },
+ {
+  "name": "Speel Glacier",
+  "lat": 58.2666838,
+  "lon": -133.4289624,
+  "elevation": 1145.0,
+  "county": "Juneau",
+  "map": "Taku River B-5 SE"
+ },
+ {
+  "name": "Spencer Glacier",
+  "lat": 60.6266747,
+  "lon": -148.872353,
+  "elevation": 674.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-5 NW"
+ },
+ {
+  "name": "Split Glacier",
+  "lat": 59.6777668,
+  "lon": -150.4922456,
+  "elevation": 951.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-2 NE"
+ },
+ {
+  "name": "Split Thumb Icefall",
+  "lat": 58.4063747,
+  "lon": -134.2870833,
+  "elevation": 1345.0,
+  "county": "Juneau",
+  "map": "Juneau B-1 NW"
+ },
+ {
+  "name": "Spoon Glacier",
+  "lat": 60.0176823,
+  "lon": -149.2527267,
+  "elevation": 674.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward A-7 SE"
+ },
+ {
+  "name": "Spotted Glacier",
+  "lat": 58.9075625,
+  "lon": -153.4837355,
+  "elevation": 570.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Afognak D-5 NE"
+ },
+ {
+  "name": "Spur Glacier",
+  "lat": 63.4166785,
+  "lon": -145.2477854,
+  "elevation": 1931.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-3 NE"
+ },
+ {
+  "name": "Spurr Ice Plateau",
+  "lat": 61.3194444,
+  "lon": -152.2411111,
+  "elevation": 2730.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Tyonek B-6 SW"
+ },
+ {
+  "name": "Stairway Glacier",
+  "lat": 61.0792882,
+  "lon": -148.4984581,
+  "elevation": 900.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-4 SW"
+ },
+ {
+  "name": "Stairway Icefall",
+  "lat": 61.6477778,
+  "lon": -142.8869444,
+  "elevation": 1941.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-6 NE"
+ },
+ {
+  "name": "Steller Glacier",
+  "lat": 60.4971062,
+  "lon": -143.5128262,
+  "elevation": 856.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier B-7 NW"
+ },
+ {
+  "name": "Steller Lobe",
+  "lat": 60.3347222,
+  "lon": -143.7513889,
+  "elevation": 322.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier B-8 SE"
+ },
+ {
+  "name": "Stephens Glacier",
+  "lat": 61.37581,
+  "lon": -146.4031843,
+  "elevation": 2038.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-7 NE"
+ },
+ {
+  "name": "Stoney Glacier",
+  "lat": 61.9237197,
+  "lon": -152.891382,
+  "elevation": 1083.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek D-8 NW"
+ },
+ {
+  "name": "Stony Glacier",
+  "lat": 61.6093312,
+  "lon": -153.8120973,
+  "elevation": 1321.0,
+  "county": "Bethel Census Area",
+  "map": "Lime Hills C-3 SE"
+ },
+ {
+  "name": "Straightaway Glacier",
+  "lat": 63.0324391,
+  "lon": -151.2910583,
+  "elevation": 2750.0,
+  "county": "Denali Borough",
+  "map": "Denali A-3 SW"
+ },
+ {
+  "name": "Suicide Glacier",
+  "lat": 58.4673417,
+  "lon": -134.4700241,
+  "elevation": null,
+  "county": "Juneau",
+  "map": "Juneau B-2 NE"
+ },
+ {
+  "name": "Sumdum Glacier",
+  "lat": 57.7906382,
+  "lon": -133.4391349,
+  "elevation": 1518.0,
+  "county": "Petersburg Borough",
+  "map": "Sumdum D-5 SE"
+ },
+ {
+  "name": "Summit Glacier",
+  "lat": 56.7941667,
+  "lon": -132.2716667,
+  "elevation": 702.0,
+  "county": "Wrangell",
+  "map": "Petersburg D-1 SW"
+ },
+ {
+  "name": "Sunrise Glacier",
+  "lat": 63.3631672,
+  "lon": -150.168962,
+  "elevation": 1930.0,
+  "county": "Denali Borough",
+  "map": "Denali B-1 SE"
+ },
+ {
+  "name": "Sunset Glacier",
+  "lat": 63.327816,
+  "lon": -150.1855571,
+  "elevation": 1539.0,
+  "county": "Denali Borough",
+  "map": "Denali B-1 SE"
+ },
+ {
+  "name": "Surprise Glacier",
+  "lat": 62.6986111,
+  "lon": -152.3075,
+  "elevation": 1072.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna C-5 NW"
+ },
+ {
+  "name": "Surprise Glacier",
+  "lat": 61.0328499,
+  "lon": -148.5139644,
+  "elevation": 576.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-5 SE"
+ },
+ {
+  "name": "Susitna Glacier",
+  "lat": 63.4908884,
+  "lon": -147.0445519,
+  "elevation": 950.0,
+  "county": "Denali Borough",
+  "map": "Healy B-1 NE"
+ },
+ {
+  "name": "Sylvester Glacier",
+  "lat": 61.5112957,
+  "lon": -147.0591688,
+  "elevation": 2546.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Anchorage C-1 SE"
+ },
+ {
+  "name": "Takhin Glacier",
+  "lat": 59.2083074,
+  "lon": -136.1678619,
+  "elevation": 1521.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-4 NE"
+ },
+ {
+  "name": "Taku Glacier",
+  "lat": 58.6471805,
+  "lon": -134.281042,
+  "elevation": 1182.0,
+  "county": "Juneau",
+  "map": "Juneau C-1 NW"
+ },
+ {
+  "name": "Talkeetna Glacier",
+  "lat": 62.1163188,
+  "lon": -148.5510043,
+  "elevation": 1913.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna Mountains A-4 SE"
+ },
+ {
+  "name": "Tana Glacier",
+  "lat": 60.5429689,
+  "lon": -141.9649605,
+  "elevation": 1366.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier C-3 SW"
+ },
+ {
+  "name": "Tana Lobe Bremner Glacier",
+  "lat": 60.6919796,
+  "lon": -143.2700086,
+  "elevation": 2744.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier C-7 NE"
+ },
+ {
+  "name": "Tanaina Glacier",
+  "lat": 60.934639,
+  "lon": -152.8715158,
+  "elevation": 1254.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Kenai D-8 NW"
+ },
+ {
+  "name": "Tarr Glacier",
+  "lat": 61.583938,
+  "lon": -147.0114674,
+  "elevation": 1514.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Anchorage C-1 SE"
+ },
+ {
+  "name": "Tasnuna Glacier",
+  "lat": 60.9957704,
+  "lon": -145.4986883,
+  "elevation": 1031.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-4 NW"
+ },
+ {
+  "name": "Tatina Glacier",
+  "lat": 62.4354495,
+  "lon": -152.7943256,
+  "elevation": 1494.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna B-6 NW"
+ },
+ {
+  "name": "Taylor Glacier",
+  "lat": 60.5756951,
+  "lon": -148.6559054,
+  "elevation": 819.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 SE"
+ },
+ {
+  "name": "Tazlina Glacier",
+  "lat": 61.4415746,
+  "lon": -146.5591681,
+  "elevation": 1413.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-7 NW"
+ },
+ {
+  "name": "Tebenkof Glacier",
+  "lat": 60.6783278,
+  "lon": -148.5325279,
+  "elevation": 516.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 NE"
+ },
+ {
+  "name": "Ted Stevens Icefield",
+  "lat": 61.3333333,
+  "lon": -146.8333333,
+  "elevation": 1459.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-8 SW"
+ },
+ {
+  "name": "Texas Glacier",
+  "lat": 56.0884351,
+  "lon": -130.2091547,
+  "elevation": 1219.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Bradfield Canal A-1 SW"
+ },
+ {
+  "name": "The Knife Creek Glacier",
+  "lat": 58.2711111,
+  "lon": -155.0405556,
+  "elevation": 1216.0,
+  "county": "Lake and Peninsula Borough",
+  "map": "Mount Katmai B-4 SE"
+ },
+ {
+  "name": "The Knife Creek Glaciers",
+  "lat": 58.2874726,
+  "lon": -155.0065826,
+  "elevation": 1452.0,
+  "county": "Kodiak Island Borough",
+  "map": "Mount Katmai B-4 SE"
+ },
+ {
+  "name": "Thiel Glacier",
+  "lat": 58.6956168,
+  "lon": -134.673427,
+  "elevation": 708.0,
+  "county": "Juneau",
+  "map": "Juneau C-3 NE"
+ },
+ {
+  "name": "Through Glacier",
+  "lat": 55.9774252,
+  "lon": -130.3952535,
+  "elevation": 1316.0,
+  "county": "Ketchikan Gateway Borough",
+  "map": "Ketchikan D-2 NE"
+ },
+ {
+  "name": "Thumb Glacier",
+  "lat": 55.9841469,
+  "lon": -130.2442506,
+  "elevation": 932.0,
+  "county": "Prince of Wales-Hyder Census Area",
+  "map": "Ketchikan D-1 NW"
+ },
+ {
+  "name": "Tiger Glacier",
+  "lat": 60.1676828,
+  "lon": -148.5507211,
+  "elevation": 801.0,
+  "county": "Chugach Census Area",
+  "map": "Seward A-5 NE"
+ },
+ {
+  "name": "Tigertail Glacier",
+  "lat": 60.2227898,
+  "lon": -148.4275769,
+  "elevation": 799.0,
+  "county": "Chugach Census Area",
+  "map": "Seward A-4 NW"
+ },
+ {
+  "name": "Tired Pup Glacier",
+  "lat": 61.4833097,
+  "lon": -153.951941,
+  "elevation": 1475.0,
+  "county": "Bethel Census Area",
+  "map": "Lime Hills B-3 NW"
+ },
+ {
+  "name": "Tittmann Glacier",
+  "lat": 61.1352778,
+  "lon": -141.1191667,
+  "elevation": 1587.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy A-1 NE"
+ },
+ {
+  "name": "Tluna Icefall",
+  "lat": 63.1338889,
+  "lon": -151.1286111,
+  "elevation": 1996.0,
+  "county": "Denali Borough",
+  "map": "Denali A-3 NE"
+ },
+ {
+  "name": "Toboggan Glacier",
+  "lat": 61.0153203,
+  "lon": -148.279819,
+  "elevation": 506.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-4 SE"
+ },
+ {
+  "name": "Tok Glacier",
+  "lat": 63.1383202,
+  "lon": -144.2064303,
+  "elevation": 1710.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes A-1 NE"
+ },
+ {
+  "name": "Tokositna Glacier",
+  "lat": 62.7913352,
+  "lon": -150.8187852,
+  "elevation": 625.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-2 SW"
+ },
+ {
+  "name": "Tommy Glacier",
+  "lat": 60.9862212,
+  "lon": -147.8832355,
+  "elevation": 882.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-3 NE"
+ },
+ {
+  "name": "Tongue Glacier",
+  "lat": 60.064825,
+  "lon": -153.2151444,
+  "elevation": 1137.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Lake Clark A-1 SW"
+ },
+ {
+  "name": "Tonsina Glacier",
+  "lat": 61.3078091,
+  "lon": -145.8399619,
+  "elevation": 1298.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-5 SW"
+ },
+ {
+  "name": "Topeka Glacier",
+  "lat": 58.9333547,
+  "lon": -137.1141028,
+  "elevation": 1006.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 NE"
+ },
+ {
+  "name": "Toyatte Glacier",
+  "lat": 58.911494,
+  "lon": -137.1177483,
+  "elevation": 1134.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 NE"
+ },
+ {
+  "name": "Trail Glacier",
+  "lat": 60.5540073,
+  "lon": -148.9089194,
+  "elevation": 1154.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward C-6 SE"
+ },
+ {
+  "name": "Traleika Glacier",
+  "lat": 63.1583333,
+  "lon": -150.7738889,
+  "elevation": 1958.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 NW"
+ },
+ {
+  "name": "Traleika Icefall",
+  "lat": 63.0930556,
+  "lon": -150.8769444,
+  "elevation": 2695.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 SW"
+ },
+ {
+  "name": "Trident Glacier",
+  "lat": 63.6033114,
+  "lon": -146.4694664,
+  "elevation": 1544.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes C-5 SW"
+ },
+ {
+  "name": "Trimble Glacier",
+  "lat": 61.6400308,
+  "lon": -152.2796983,
+  "elevation": 1819.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek C-7 NE"
+ },
+ {
+  "name": "Triumvirate Glacier",
+  "lat": 61.4833888,
+  "lon": -152.1935753,
+  "elevation": 1112.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Tyonek B-6 NW"
+ },
+ {
+  "name": "Truuli Glacier",
+  "lat": 59.9289565,
+  "lon": -150.4365593,
+  "elevation": 1320.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia D-2 NE"
+ },
+ {
+  "name": "Tsirku Glacier",
+  "lat": 59.3454396,
+  "lon": -136.4244674,
+  "elevation": 1381.0,
+  "county": "Haines Borough",
+  "map": "Skagway B-4 SW"
+ },
+ {
+  "name": "Turner Glacier",
+  "lat": 60.0994257,
+  "lon": -139.7988287,
+  "elevation": 900.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-5 SW"
+ },
+ {
+  "name": "Tustumena Glacier",
+  "lat": 59.967417,
+  "lon": -150.2381319,
+  "elevation": 924.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia D-1 NW"
+ },
+ {
+  "name": "Tuxedni Glacier",
+  "lat": 60.1241582,
+  "lon": -153.1032188,
+  "elevation": 629.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Lake Clark A-1 SE"
+ },
+ {
+  "name": "Twaharpies Glacier",
+  "lat": 61.3667431,
+  "lon": -142.0847455,
+  "elevation": 1538.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy B-3 SW"
+ },
+ {
+  "name": "Twentymile Glacier",
+  "lat": 60.94536,
+  "lon": -148.6507087,
+  "elevation": 649.0,
+  "county": "Anchorage",
+  "map": "Seward D-5 NE"
+ },
+ {
+  "name": "Twentyseven Mile Glacier",
+  "lat": 61.1528614,
+  "lon": -145.7840292,
+  "elevation": 1442.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-5 NW"
+ },
+ {
+  "name": "Twin Glacier",
+  "lat": 58.8940396,
+  "lon": -136.4258916,
+  "elevation": 837.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-2 NE"
+ },
+ {
+  "name": "Tyeen Glacier",
+  "lat": 58.8703282,
+  "lon": -137.1803743,
+  "elevation": 1194.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Mount Fairweather D-4 SW"
+ },
+ {
+  "name": "Tyndall Glacier",
+  "lat": 60.1961597,
+  "lon": -141.1432476,
+  "elevation": 467.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-1 NE"
+ },
+ {
+  "name": "Ultramarine Glacier",
+  "lat": 60.3893706,
+  "lon": -148.3845881,
+  "elevation": 455.0,
+  "county": "Chugach Census Area",
+  "map": "Seward B-4 NW"
+ },
+ {
+  "name": "Umbrella Glacier",
+  "lat": 60.0044315,
+  "lon": -153.1491805,
+  "elevation": 940.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Lake Clark A-1 SE"
+ },
+ {
+  "name": "Unknown Glacier",
+  "lat": 58.6647084,
+  "lon": -133.9587241,
+  "elevation": 1194.0,
+  "county": "Juneau",
+  "map": "Taku River C-6 NW"
+ },
+ {
+  "name": "Valdez Glacier",
+  "lat": 61.3007646,
+  "lon": -146.214054,
+  "elevation": 423.0,
+  "county": "Copper River Census Area",
+  "map": "Valdez B-6 SW"
+ },
+ {
+  "name": "Valerie Glacier",
+  "lat": 60.1867195,
+  "lon": -139.6025557,
+  "elevation": 1317.0,
+  "county": "Yakutat",
+  "map": "Mount Saint Elias A-5 NE"
+ },
+ {
+  "name": "Van Cleve Glacier",
+  "lat": 60.6971937,
+  "lon": -144.086893,
+  "elevation": 1195.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova C-1 NE"
+ },
+ {
+  "name": "Variegated Glacier",
+  "lat": 59.9987948,
+  "lon": -139.1678022,
+  "elevation": 1288.0,
+  "county": "Yakutat",
+  "map": "Yakutat D-4 NE"
+ },
+ {
+  "name": "Vassar Glacier",
+  "lat": 61.2197682,
+  "lon": -147.8879628,
+  "elevation": 1142.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 NE"
+ },
+ {
+  "name": "Vaughan Lewis Glacier",
+  "lat": 58.8291667,
+  "lon": -134.2516667,
+  "elevation": 1715.0,
+  "county": "Juneau",
+  "map": "Juneau D-1 SW"
+ },
+ {
+  "name": "Villard Glacier",
+  "lat": 59.286661,
+  "lon": -135.2519449,
+  "elevation": 1193.0,
+  "county": "Haines Borough",
+  "map": "Skagway B-1 SW"
+ },
+ {
+  "name": "Walsh Glacier",
+  "lat": 60.923295,
+  "lon": -141.2255277,
+  "elevation": 1116.0,
+  "county": "Copper River Census Area",
+  "map": "Bering Glacier D-1 NW"
+ },
+ {
+  "name": "Watson Glacier",
+  "lat": 60.1836564,
+  "lon": -142.0831497,
+  "elevation": 687.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-3 NW"
+ },
+ {
+  "name": "Waxell Glacier",
+  "lat": 60.4318264,
+  "lon": -143.1881114,
+  "elevation": 559.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-6 NW"
+ },
+ {
+  "name": "Wedge Glacier",
+  "lat": 60.9586702,
+  "lon": -148.3905334,
+  "elevation": 574.0,
+  "county": "Chugach Census Area",
+  "map": "Seward D-4 NW"
+ },
+ {
+  "name": "Wellesley Glacier",
+  "lat": 61.1988861,
+  "lon": -147.9339774,
+  "elevation": 1101.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 NE"
+ },
+ {
+  "name": "Wernicke Glacier",
+  "lat": 60.7558056,
+  "lon": -143.9489019,
+  "elevation": 1316.0,
+  "county": "Chugach Census Area",
+  "map": "Bering Glacier D-8 SW"
+ },
+ {
+  "name": "West Alapah Glacier",
+  "lat": 68.141857,
+  "lon": -150.86039,
+  "elevation": 1641.0,
+  "county": "North Slope Borough",
+  "map": "Chandler Lake A-2 NE"
+ },
+ {
+  "name": "West Branch Eklutna Glacier",
+  "lat": 61.2180556,
+  "lon": -149.0138889,
+  "elevation": 1341.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 NE"
+ },
+ {
+  "name": "West Branch Taku Glacier",
+  "lat": 58.6644444,
+  "lon": -134.5302778,
+  "elevation": 1525.0,
+  "county": "Juneau",
+  "map": "Juneau C-2 NW"
+ },
+ {
+  "name": "West Fork Glacier",
+  "lat": 63.5418317,
+  "lon": -147.2771275,
+  "elevation": 1341.0,
+  "county": "Denali Borough",
+  "map": "Healy C-1 SW"
+ },
+ {
+  "name": "West Fork Glacier",
+  "lat": 61.6697512,
+  "lon": -142.7723291,
+  "elevation": 1355.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy C-5 NW"
+ },
+ {
+  "name": "West Fork Glacier",
+  "lat": 63.2823911,
+  "lon": -150.0759614,
+  "elevation": 1135.0,
+  "county": "Denali Borough",
+  "map": "Denali B-1 SE"
+ },
+ {
+  "name": "West Fork Ruth Glacier",
+  "lat": 62.9908333,
+  "lon": -150.9105556,
+  "elevation": 2130.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-2 NW"
+ },
+ {
+  "name": "West Fork Traleika Glacier",
+  "lat": 63.115,
+  "lon": -150.8511111,
+  "elevation": 2226.0,
+  "county": "Denali Borough",
+  "map": "Denali A-2 SW"
+ },
+ {
+  "name": "West Glacier",
+  "lat": 62.2444491,
+  "lon": -144.0078585,
+  "elevation": 1737.0,
+  "county": "Copper River Census Area",
+  "map": "Gulkana A-1 NE"
+ },
+ {
+  "name": "West Gulkana Glacier",
+  "lat": 63.2829209,
+  "lon": -145.5132361,
+  "elevation": 1699.0,
+  "county": "Southeast Fairbanks Census Area",
+  "map": "Mount Hayes B-4 SE"
+ },
+ {
+  "name": "West Nunatak Glacier",
+  "lat": 59.7040947,
+  "lon": -138.8834185,
+  "elevation": 510.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-3 NE"
+ },
+ {
+  "name": "West Twin Glacier",
+  "lat": 58.5791667,
+  "lon": -133.955,
+  "elevation": 392.0,
+  "county": "Juneau",
+  "map": "Taku River C-6 SW"
+ },
+ {
+  "name": "Westbrook Glacier",
+  "lat": 61.1186276,
+  "lon": -146.6867491,
+  "elevation": 907.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-8 SE"
+ },
+ {
+  "name": "Whiskey Hill Glacier",
+  "lat": 61.8202778,
+  "lon": -142.5877778,
+  "elevation": 1741.0,
+  "county": "Copper River Census Area",
+  "map": "McCarthy D-5 SE"
+ },
+ {
+  "name": "White Glacier",
+  "lat": 58.7975197,
+  "lon": -135.9488373,
+  "elevation": 1090.0,
+  "county": "Hoonah-Angoon Census Area",
+  "map": "Juneau D-6 SW"
+ },
+ {
+  "name": "White River Glacier",
+  "lat": 60.0968126,
+  "lon": -141.9734618,
+  "elevation": 1228.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-3 SW"
+ },
+ {
+  "name": "Whiteout Glacier",
+  "lat": 61.1613005,
+  "lon": -148.8857416,
+  "elevation": 1688.0,
+  "county": "Anchorage",
+  "map": "Anchorage A-6 NE"
+ },
+ {
+  "name": "Whittier Glacier",
+  "lat": 60.7474159,
+  "lon": -148.6868513,
+  "elevation": 676.0,
+  "county": "Chugach Census Area",
+  "map": "Seward C-5 NE"
+ },
+ {
+  "name": "Willard Glacier",
+  "lat": 59.1880907,
+  "lon": -135.882526,
+  "elevation": 1303.0,
+  "county": "Haines Borough",
+  "map": "Skagway A-3 NE"
+ },
+ {
+  "name": "Williams Glacier",
+  "lat": 61.0609168,
+  "lon": -147.7630625,
+  "elevation": 618.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage A-3 SE"
+ },
+ {
+  "name": "Windy Glacier",
+  "lat": 68.5632156,
+  "lon": -147.407515,
+  "elevation": 1623.0,
+  "county": "North Slope Borough",
+  "map": "Philip Smith Mountains C-1 SW"
+ },
+ {
+  "name": "Witches Cauldron",
+  "lat": 57.1309738,
+  "lon": -132.524124,
+  "elevation": 550.0,
+  "county": "Petersburg Borough",
+  "map": "Sumdum A-2 NW"
+ },
+ {
+  "name": "Wolverine Glacier",
+  "lat": 60.4121007,
+  "lon": -148.9080654,
+  "elevation": 1194.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seward B-6 NE"
+ },
+ {
+  "name": "Woodworth Glacier",
+  "lat": 60.8684836,
+  "lon": -145.3523386,
+  "elevation": 1356.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-4 SW"
+ },
+ {
+  "name": "Worthington Glacier",
+  "lat": 61.1676196,
+  "lon": -145.7847243,
+  "elevation": 1362.0,
+  "county": "Chugach Census Area",
+  "map": "Valdez A-5 NW"
+ },
+ {
+  "name": "Wortmanns Glacier",
+  "lat": 60.9019903,
+  "lon": -145.6675152,
+  "elevation": 1606.0,
+  "county": "Chugach Census Area",
+  "map": "Cordova D-5 NE"
+ },
+ {
+  "name": "Wosnesenski Glacier",
+  "lat": 59.4844714,
+  "lon": -150.9397309,
+  "elevation": 829.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia B-3 NW"
+ },
+ {
+  "name": "Wright Glacier",
+  "lat": 58.4008015,
+  "lon": -133.457289,
+  "elevation": 1520.0,
+  "county": "Juneau",
+  "map": "Taku River B-5 NE"
+ },
+ {
+  "name": "Yaga Glacier",
+  "lat": 60.175,
+  "lon": -142.0147222,
+  "elevation": 851.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-3 NW"
+ },
+ {
+  "name": "Yahtse Glacier",
+  "lat": 60.3295376,
+  "lon": -141.716489,
+  "elevation": 1224.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-2 SW"
+ },
+ {
+  "name": "Yakataga Glacier",
+  "lat": 60.1439364,
+  "lon": -142.1184216,
+  "elevation": 493.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier A-3 NW"
+ },
+ {
+  "name": "Yakutat Glacier",
+  "lat": 59.6113384,
+  "lon": -138.9394546,
+  "elevation": 452.0,
+  "county": "Yakutat",
+  "map": "Yakutat C-3 SW"
+ },
+ {
+  "name": "Yale Glacier",
+  "lat": 61.3176991,
+  "lon": -147.3394295,
+  "elevation": 1983.0,
+  "county": "Chugach Census Area",
+  "map": "Anchorage B-1 SW"
+ },
+ {
+  "name": "Yalik Glacier",
+  "lat": 59.5354417,
+  "lon": -150.7858513,
+  "elevation": 612.0,
+  "county": "Kenai Peninsula Borough",
+  "map": "Seldovia C-3 SE"
+ },
+ {
+  "name": "Yanert Glacier",
+  "lat": 63.6021347,
+  "lon": -147.7137715,
+  "elevation": 1150.0,
+  "county": "Denali Borough",
+  "map": "Healy C-2 SE"
+ },
+ {
+  "name": "Yentna Glacier",
+  "lat": 62.7983537,
+  "lon": -151.6135972,
+  "elevation": 2122.0,
+  "county": "Matanuska-Susitna Borough",
+  "map": "Talkeetna D-4 SE"
+ },
+ {
+  "name": "Yushin Glacier",
+  "lat": 60.4347222,
+  "lon": -143.2180556,
+  "elevation": 735.0,
+  "county": "Yakutat",
+  "map": "Bering Glacier B-6 NW"
+ }
+]
