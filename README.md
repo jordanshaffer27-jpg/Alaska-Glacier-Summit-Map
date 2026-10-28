@@ -23,4 +23,4 @@ This project demonstrates how web mapping can be used to explore geographic patt
 
 ## GitHub Link
 
-[View Project on GitHub](https://github.com/USERNAME/REPOSITORY)
+https://jordanshaffer27-jpg.github.io/Alaska-Glacier-Summit-Map/
