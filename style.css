@@ -1,1 +1,117 @@
-*{box-sizing:border-box}body{margin:0;font:16px/1.55 system-ui,Arial,sans-serif;color:#193044;background:#f1f5f7}header{background:#153b51;color:white;padding:24px max(20px,calc((100vw - 1100px)/2))}header h1{margin:0;font-size:clamp(24px,4vw,36px)}header p{margin:6px 0 0;color:#d6e5ed}main{max-width:1100px;margin:24px auto;padding:0 16px}.info,.stats{background:white;border-radius:10px;padding:18px 22px;margin:18px 0;box-shadow:0 1px 5px #0001}h2{margin:0 0 10px;font-size:21px}p{margin:8px 0 12px}.map-wrap{border-radius:10px;overflow:hidden;box-shadow:0 2px 8px #0002}#map{height:560px;width:100%}.leaflet-popup-content{min-width:205px}.metric-grid{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0}.metric{padding:12px 16px;background:#e9f3f7;border-radius:8px;min-width:145px}.metric b{display:block;font-size:24px}.metric span{font-size:13px}footer{padding:20px;text-align:center;color:#526574;font-size:13px}@media(max-width:600px){#map{height:460px}.leaflet-control-layers{font-size:12px}}
+/* General Page Styling */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font: 16px/1.55 system-ui, Arial, sans-serif;
+    color: #193044;
+    background: #f1f5f7;
+}
+
+/* Header */
+header {
+    background: #153b51;
+    color: white;
+    padding: 24px max(20px, calc((100vw - 1100px) / 2));
+}
+
+header h1 {
+    margin: 0;
+    font-size: clamp(24px, 4vw, 36px);
+}
+
+header p {
+    margin: 6px 0 0;
+    color: #d6e5ed;
+}
+
+/* Main Content */
+main {
+    max-width: 1100px;
+    margin: 24px auto;
+    padding: 0 16px;
+}
+
+/* Information and Analysis Sections */
+.info,
+.stats {
+    background: white;
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin: 18px 0;
+    box-shadow: 0 1px 5px #0001;
+}
+
+/* Headings and Paragraphs */
+h2 {
+    margin: 0 0 10px;
+    font-size: 21px;
+}
+
+p {
+    margin: 8px 0 12px;
+}
+
+/* Map Container */
+.map-wrap {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px #0002;
+}
+
+#map {
+    height: 560px;
+    width: 100%;
+}
+
+/* Map Popups */
+.leaflet-popup-content {
+    min-width: 205px;
+}
+
+/* Spatial Analysis Statistics */
+.metric-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 12px 0;
+}
+
+.metric {
+    padding: 12px 16px;
+    background: #e9f3f7;
+    border-radius: 8px;
+    min-width: 145px;
+}
+
+.metric b {
+    display: block;
+    font-size: 24px;
+}
+
+.metric span {
+    font-size: 13px;
+}
+
+/* Footer */
+footer {
+    padding: 20px;
+    text-align: center;
+    color: #526574;
+    font-size: 13px;
+}
+
+/* Mobile Screen Adjustments */
+@media (max-width: 600px) {
+
+    #map {
+        height: 460px;
+    }
+
+    .leaflet-control-layers {
+        font-size: 12px;
+    }
+
+}
